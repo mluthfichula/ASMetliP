@@ -1,0 +1,363 @@
+KEGG ID hsa,hsa,KEGG ID pae,pae,KEGG ID lsv,lsv
+hsa01100,Metabolic pathways - Homo sapiens (human),pae01100,Metabolic pathways - Pseudomonas aeruginosa PAO1,lsv01100,Metabolic pathways - Lactuca sativa (garden lettuce)
+hsa01200,Carbon metabolism - Homo sapiens (human),pae01110,Biosynthesis of secondary metabolites - Pseudomonas aeruginosa PAO1,lsv01110,Biosynthesis of secondary metabolites - Lactuca sativa (garden lettuce)
+hsa01210,2-Oxocarboxylic acid metabolism - Homo sapiens (human),pae01120,Microbial metabolism in diverse environments - Pseudomonas aeruginosa PAO1,lsv01200,Carbon metabolism - Lactuca sativa (garden lettuce)
+hsa01212,Fatty acid metabolism - Homo sapiens (human),pae01200,Carbon metabolism - Pseudomonas aeruginosa PAO1,lsv01210,2-Oxocarboxylic acid metabolism - Lactuca sativa (garden lettuce)
+hsa01230,Biosynthesis of amino acids - Homo sapiens (human),pae01210,2-Oxocarboxylic acid metabolism - Pseudomonas aeruginosa PAO1,lsv01212,Fatty acid metabolism - Lactuca sativa (garden lettuce)
+hsa01232,Nucleotide metabolism - Homo sapiens (human),pae01212,Fatty acid metabolism - Pseudomonas aeruginosa PAO1,lsv01230,Biosynthesis of amino acids - Lactuca sativa (garden lettuce)
+hsa01250,Biosynthesis of nucleotide sugars - Homo sapiens (human),pae01230,Biosynthesis of amino acids - Pseudomonas aeruginosa PAO1,lsv01232,Nucleotide metabolism - Lactuca sativa (garden lettuce)
+hsa01240,Biosynthesis of cofactors - Homo sapiens (human),pae01232,Nucleotide metabolism - Pseudomonas aeruginosa PAO1,lsv01250,Biosynthesis of nucleotide sugars - Lactuca sativa (garden lettuce)
+hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),pae01250,Biosynthesis of nucleotide sugars - Pseudomonas aeruginosa PAO1,lsv01240,Biosynthesis of cofactors - Lactuca sativa (garden lettuce)
+hsa00020,Citrate cycle (TCA cycle) - Homo sapiens (human),pae01240,Biosynthesis of cofactors - Pseudomonas aeruginosa PAO1,lsv01310,Nitrogen cycle - Lactuca sativa (garden lettuce)
+hsa00030,Pentose phosphate pathway - Homo sapiens (human),pae01220,Degradation of aromatic compounds - Pseudomonas aeruginosa PAO1,lsv00010,Glycolysis / Gluconeogenesis - Lactuca sativa (garden lettuce)
+hsa00040,Pentose and glucuronate interconversions - Homo sapiens (human),pae01310,Nitrogen cycle - Pseudomonas aeruginosa PAO1,lsv00020,Citrate cycle (TCA cycle) - Lactuca sativa (garden lettuce)
+hsa00051,Fructose and mannose metabolism - Homo sapiens (human),pae00010,Glycolysis / Gluconeogenesis - Pseudomonas aeruginosa PAO1,lsv00030,Pentose phosphate pathway - Lactuca sativa (garden lettuce)
+hsa00052,Galactose metabolism - Homo sapiens (human),pae00020,Citrate cycle (TCA cycle) - Pseudomonas aeruginosa PAO1,lsv00040,Pentose and glucuronate interconversions - Lactuca sativa (garden lettuce)
+hsa00053,Ascorbate and aldarate metabolism - Homo sapiens (human),pae00030,Pentose phosphate pathway - Pseudomonas aeruginosa PAO1,lsv00051,Fructose and mannose metabolism - Lactuca sativa (garden lettuce)
+hsa00500,Starch and sucrose metabolism - Homo sapiens (human),pae00040,Pentose and glucuronate interconversions - Pseudomonas aeruginosa PAO1,lsv00052,Galactose metabolism - Lactuca sativa (garden lettuce)
+hsa00520,Amino sugar and nucleotide sugar metabolism - Homo sapiens (human),pae00051,Fructose and mannose metabolism - Pseudomonas aeruginosa PAO1,lsv00053,Ascorbate and aldarate metabolism - Lactuca sativa (garden lettuce)
+hsa00620,Pyruvate metabolism - Homo sapiens (human),pae00052,Galactose metabolism - Pseudomonas aeruginosa PAO1,lsv00500,Starch and sucrose metabolism - Lactuca sativa (garden lettuce)
+hsa00630,Glyoxylate and dicarboxylate metabolism - Homo sapiens (human),pae00053,Ascorbate and aldarate metabolism - Pseudomonas aeruginosa PAO1,lsv00520,Amino sugar and nucleotide sugar metabolism - Lactuca sativa (garden lettuce)
+hsa00640,Propanoate metabolism - Homo sapiens (human),pae00500,Starch and sucrose metabolism - Pseudomonas aeruginosa PAO1,lsv00620,Pyruvate metabolism - Lactuca sativa (garden lettuce)
+hsa00650,Butanoate metabolism - Homo sapiens (human),pae00520,Amino sugar and nucleotide sugar metabolism - Pseudomonas aeruginosa PAO1,lsv00630,Glyoxylate and dicarboxylate metabolism - Lactuca sativa (garden lettuce)
+hsa00562,Inositol phosphate metabolism - Homo sapiens (human),pae00620,Pyruvate metabolism - Pseudomonas aeruginosa PAO1,lsv00640,Propanoate metabolism - Lactuca sativa (garden lettuce)
+hsa00190,Oxidative phosphorylation - Homo sapiens (human),pae00630,Glyoxylate and dicarboxylate metabolism - Pseudomonas aeruginosa PAO1,lsv00650,Butanoate metabolism - Lactuca sativa (garden lettuce)
+hsa00910,Nitrogen metabolism - Homo sapiens (human),pae00640,Propanoate metabolism - Pseudomonas aeruginosa PAO1,lsv00660,C5-Branched dibasic acid metabolism - Lactuca sativa (garden lettuce)
+hsa00920,Sulfur metabolism - Homo sapiens (human),pae00650,Butanoate metabolism - Pseudomonas aeruginosa PAO1,lsv00562,Inositol phosphate metabolism - Lactuca sativa (garden lettuce)
+hsa00061,Fatty acid biosynthesis - Homo sapiens (human),pae00660,C5-Branched dibasic acid metabolism - Pseudomonas aeruginosa PAO1,lsv00190,Oxidative phosphorylation - Lactuca sativa (garden lettuce)
+hsa00062,Fatty acid elongation - Homo sapiens (human),pae00562,Inositol phosphate metabolism - Pseudomonas aeruginosa PAO1,lsv00195,Photosynthesis - Lactuca sativa (garden lettuce)
+hsa00071,Fatty acid degradation - Homo sapiens (human),pae00190,Oxidative phosphorylation - Pseudomonas aeruginosa PAO1,lsv00196,Photosynthesis - antenna proteins - Lactuca sativa (garden lettuce)
+hsa00100,Steroid biosynthesis - Homo sapiens (human),pae00710,Carbon fixation by Calvin cycle - Pseudomonas aeruginosa PAO1,lsv00710,Carbon fixation by Calvin cycle - Lactuca sativa (garden lettuce)
+hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),pae00720,Other carbon fixation pathways - Pseudomonas aeruginosa PAO1,lsv00910,Nitrogen metabolism - Lactuca sativa (garden lettuce)
+hsa00140,Steroid hormone biosynthesis - Homo sapiens (human),pae00680,Methane metabolism - Pseudomonas aeruginosa PAO1,lsv00920,Sulfur metabolism - Lactuca sativa (garden lettuce)
+hsa00561,Glycerolipid metabolism - Homo sapiens (human),pae00910,Nitrogen metabolism - Pseudomonas aeruginosa PAO1,lsv00061,Fatty acid biosynthesis - Lactuca sativa (garden lettuce)
+hsa00564,Glycerophospholipid metabolism - Homo sapiens (human),pae00920,Sulfur metabolism - Pseudomonas aeruginosa PAO1,lsv00062,Fatty acid elongation - Lactuca sativa (garden lettuce)
+hsa00565,Ether lipid metabolism - Homo sapiens (human),pae00061,Fatty acid biosynthesis - Pseudomonas aeruginosa PAO1,lsv00071,Fatty acid degradation - Lactuca sativa (garden lettuce)
+hsa00600,Sphingolipid metabolism - Homo sapiens (human),pae00071,Fatty acid degradation - Pseudomonas aeruginosa PAO1,lsv00073,"Cutin, suberine and wax biosynthesis - Lactuca sativa (garden lettuce)"
+hsa00590,Arachidonic acid metabolism - Homo sapiens (human),pae00074,Mycolic acid biosynthesis - Pseudomonas aeruginosa PAO1,lsv00100,Steroid biosynthesis - Lactuca sativa (garden lettuce)
+hsa00591,Linoleic acid metabolism - Homo sapiens (human),pae00561,Glycerolipid metabolism - Pseudomonas aeruginosa PAO1,lsv00561,Glycerolipid metabolism - Lactuca sativa (garden lettuce)
+hsa00592,alpha-Linolenic acid metabolism - Homo sapiens (human),pae00564,Glycerophospholipid metabolism - Pseudomonas aeruginosa PAO1,lsv00564,Glycerophospholipid metabolism - Lactuca sativa (garden lettuce)
+hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),pae00565,Ether lipid metabolism - Pseudomonas aeruginosa PAO1,lsv00565,Ether lipid metabolism - Lactuca sativa (garden lettuce)
+hsa00230,Purine metabolism - Homo sapiens (human),pae00600,Sphingolipid metabolism - Pseudomonas aeruginosa PAO1,lsv00600,Sphingolipid metabolism - Lactuca sativa (garden lettuce)
+hsa00240,Pyrimidine metabolism - Homo sapiens (human),pae00592,alpha-Linolenic acid metabolism - Pseudomonas aeruginosa PAO1,lsv00590,Arachidonic acid metabolism - Lactuca sativa (garden lettuce)
+hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)",pae01040,Biosynthesis of unsaturated fatty acids - Pseudomonas aeruginosa PAO1,lsv00591,Linoleic acid metabolism - Lactuca sativa (garden lettuce)
+hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",pae00230,Purine metabolism - Pseudomonas aeruginosa PAO1,lsv00592,alpha-Linolenic acid metabolism - Lactuca sativa (garden lettuce)
+hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),pae00240,Pyrimidine metabolism - Pseudomonas aeruginosa PAO1,lsv01040,Biosynthesis of unsaturated fatty acids - Lactuca sativa (garden lettuce)
+hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",pae00250,"Alanine, aspartate and glutamate metabolism - Pseudomonas aeruginosa PAO1",lsv00230,Purine metabolism - Lactuca sativa (garden lettuce)
+hsa00290,"Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)",pae00260,"Glycine, serine and threonine metabolism - Pseudomonas aeruginosa PAO1",lsv00240,Pyrimidine metabolism - Lactuca sativa (garden lettuce)
+hsa00310,Lysine degradation - Homo sapiens (human),pae00270,Cysteine and methionine metabolism - Pseudomonas aeruginosa PAO1,lsv00250,"Alanine, aspartate and glutamate metabolism - Lactuca sativa (garden lettuce)"
+hsa00220,Arginine biosynthesis - Homo sapiens (human),pae00280,"Valine, leucine and isoleucine degradation - Pseudomonas aeruginosa PAO1",lsv00260,"Glycine, serine and threonine metabolism - Lactuca sativa (garden lettuce)"
+hsa00330,Arginine and proline metabolism - Homo sapiens (human),pae00290,"Valine, leucine and isoleucine biosynthesis - Pseudomonas aeruginosa PAO1",lsv00270,Cysteine and methionine metabolism - Lactuca sativa (garden lettuce)
+hsa00340,Histidine metabolism - Homo sapiens (human),pae00300,Lysine biosynthesis - Pseudomonas aeruginosa PAO1,lsv00280,"Valine, leucine and isoleucine degradation - Lactuca sativa (garden lettuce)"
+hsa00350,Tyrosine metabolism - Homo sapiens (human),pae00310,Lysine degradation - Pseudomonas aeruginosa PAO1,lsv00290,"Valine, leucine and isoleucine biosynthesis - Lactuca sativa (garden lettuce)"
+hsa00360,Phenylalanine metabolism - Homo sapiens (human),pae00220,Arginine biosynthesis - Pseudomonas aeruginosa PAO1,lsv00300,Lysine biosynthesis - Lactuca sativa (garden lettuce)
+hsa00380,Tryptophan metabolism - Homo sapiens (human),pae00330,Arginine and proline metabolism - Pseudomonas aeruginosa PAO1,lsv00310,Lysine degradation - Lactuca sativa (garden lettuce)
+hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",pae00340,Histidine metabolism - Pseudomonas aeruginosa PAO1,lsv00220,Arginine biosynthesis - Lactuca sativa (garden lettuce)
+hsa00410,beta-Alanine metabolism - Homo sapiens (human),pae00350,Tyrosine metabolism - Pseudomonas aeruginosa PAO1,lsv00330,Arginine and proline metabolism - Lactuca sativa (garden lettuce)
+hsa00430,Taurine and hypotaurine metabolism - Homo sapiens (human),pae00360,Phenylalanine metabolism - Pseudomonas aeruginosa PAO1,lsv00340,Histidine metabolism - Lactuca sativa (garden lettuce)
+hsa00440,Phosphonate and phosphinate metabolism - Homo sapiens (human),pae00380,Tryptophan metabolism - Pseudomonas aeruginosa PAO1,lsv00350,Tyrosine metabolism - Lactuca sativa (garden lettuce)
+hsa00450,Selenocompound metabolism - Homo sapiens (human),pae00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudomonas aeruginosa PAO1",lsv00360,Phenylalanine metabolism - Lactuca sativa (garden lettuce)
+hsa00470,D-Amino acid metabolism - Homo sapiens (human),pae00410,beta-Alanine metabolism - Pseudomonas aeruginosa PAO1,lsv00380,Tryptophan metabolism - Lactuca sativa (garden lettuce)
+hsa00480,Glutathione metabolism - Homo sapiens (human),pae00430,Taurine and hypotaurine metabolism - Pseudomonas aeruginosa PAO1,lsv00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Lactuca sativa (garden lettuce)"
+hsa00510,N-Glycan biosynthesis - Homo sapiens (human),pae00440,Phosphonate and phosphinate metabolism - Pseudomonas aeruginosa PAO1,lsv00410,beta-Alanine metabolism - Lactuca sativa (garden lettuce)
+hsa00513,Various types of N-glycan biosynthesis - Homo sapiens (human),pae00450,Selenocompound metabolism - Pseudomonas aeruginosa PAO1,lsv00430,Taurine and hypotaurine metabolism - Lactuca sativa (garden lettuce)
+hsa00512,Mucin type O-glycan biosynthesis - Homo sapiens (human),pae00460,Cyanoamino acid metabolism - Pseudomonas aeruginosa PAO1,lsv00440,Phosphonate and phosphinate metabolism - Lactuca sativa (garden lettuce)
+hsa00515,Mannose type O-glycan biosynthesis - Homo sapiens (human),pae00470,D-Amino acid metabolism - Pseudomonas aeruginosa PAO1,lsv00450,Selenocompound metabolism - Lactuca sativa (garden lettuce)
+hsa00514,Other types of O-glycan biosynthesis - Homo sapiens (human),pae00480,Glutathione metabolism - Pseudomonas aeruginosa PAO1,lsv00460,Cyanoamino acid metabolism - Lactuca sativa (garden lettuce)
+hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human),pae00540,Lipopolysaccharide biosynthesis - Pseudomonas aeruginosa PAO1,lsv00470,D-Amino acid metabolism - Lactuca sativa (garden lettuce)
+hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human),pae00541,O-Antigen nucleotide sugar biosynthesis - Pseudomonas aeruginosa PAO1,lsv00480,Glutathione metabolism - Lactuca sativa (garden lettuce)
+hsa00533,Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human),pae00550,Peptidoglycan biosynthesis - Pseudomonas aeruginosa PAO1,lsv00510,N-Glycan biosynthesis - Lactuca sativa (garden lettuce)
+hsa00531,Glycosaminoglycan degradation - Homo sapiens (human),pae00552,Teichoic acid biosynthesis - Pseudomonas aeruginosa PAO1,lsv00513,Various types of N-glycan biosynthesis - Lactuca sativa (garden lettuce)
+hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),pae00543,Exopolysaccharide biosynthesis - Pseudomonas aeruginosa PAO1,lsv00514,Other types of O-glycan biosynthesis - Lactuca sativa (garden lettuce)
+hsa00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human),pae00730,Thiamine metabolism - Pseudomonas aeruginosa PAO1,lsv00531,Glycosaminoglycan degradation - Lactuca sativa (garden lettuce)
+hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),pae00740,Riboflavin metabolism - Pseudomonas aeruginosa PAO1,lsv00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Lactuca sativa (garden lettuce)
+hsa00604,Glycosphingolipid biosynthesis - ganglio series - Homo sapiens (human),pae00750,Vitamin B6 metabolism - Pseudomonas aeruginosa PAO1,lsv00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Lactuca sativa (garden lettuce)
+hsa00511,Other glycan degradation - Homo sapiens (human),pae00760,Nicotinate and nicotinamide metabolism - Pseudomonas aeruginosa PAO1,lsv00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Lactuca sativa (garden lettuce)
+hsa00730,Thiamine metabolism - Homo sapiens (human),pae00770,Pantothenate and CoA biosynthesis - Pseudomonas aeruginosa PAO1,lsv00604,Glycosphingolipid biosynthesis - ganglio series - Lactuca sativa (garden lettuce)
+hsa00740,Riboflavin metabolism - Homo sapiens (human),pae00780,Biotin metabolism - Pseudomonas aeruginosa PAO1,lsv00511,Other glycan degradation - Lactuca sativa (garden lettuce)
+hsa00750,Vitamin B6 metabolism - Homo sapiens (human),pae00785,Lipoic acid metabolism - Pseudomonas aeruginosa PAO1,lsv00543,Exopolysaccharide biosynthesis - Lactuca sativa (garden lettuce)
+hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human),pae00790,Folate biosynthesis - Pseudomonas aeruginosa PAO1,lsv00730,Thiamine metabolism - Lactuca sativa (garden lettuce)
+hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human),pae00670,One carbon pool by folate - Pseudomonas aeruginosa PAO1,lsv00740,Riboflavin metabolism - Lactuca sativa (garden lettuce)
+hsa00780,Biotin metabolism - Homo sapiens (human),pae00860,Porphyrin metabolism - Pseudomonas aeruginosa PAO1,lsv00750,Vitamin B6 metabolism - Lactuca sativa (garden lettuce)
+hsa00785,Lipoic acid metabolism - Homo sapiens (human),pae00130,Ubiquinone and other terpenoid-quinone biosynthesis - Pseudomonas aeruginosa PAO1,lsv00760,Nicotinate and nicotinamide metabolism - Lactuca sativa (garden lettuce)
+hsa00790,Folate biosynthesis - Homo sapiens (human),pae00900,Terpenoid backbone biosynthesis - Pseudomonas aeruginosa PAO1,lsv00770,Pantothenate and CoA biosynthesis - Lactuca sativa (garden lettuce)
+hsa00670,One carbon pool by folate - Homo sapiens (human),pae00903,Limonene degradation - Pseudomonas aeruginosa PAO1,lsv00780,Biotin metabolism - Lactuca sativa (garden lettuce)
+hsa00830,Retinol metabolism - Homo sapiens (human),pae00907,"Pinene, camphor and geraniol degradation - Pseudomonas aeruginosa PAO1",lsv00785,Lipoic acid metabolism - Lactuca sativa (garden lettuce)
+hsa00860,Porphyrin metabolism - Homo sapiens (human),pae00523,Polyketide sugar unit biosynthesis - Pseudomonas aeruginosa PAO1,lsv00790,Folate biosynthesis - Lactuca sativa (garden lettuce)
+hsa00130,Ubiquinone and other terpenoid-quinone biosynthesis - Homo sapiens (human),pae01053,Biosynthesis of siderophore group nonribosomal peptides - Pseudomonas aeruginosa PAO1,lsv00670,One carbon pool by folate - Lactuca sativa (garden lettuce)
+hsa00900,Terpenoid backbone biosynthesis - Homo sapiens (human),pae00946,Degradation of flavonoids - Pseudomonas aeruginosa PAO1,lsv00860,Porphyrin metabolism - Lactuca sativa (garden lettuce)
+hsa00232,Caffeine metabolism - Homo sapiens (human),pae00332,Carbapenem biosynthesis - Pseudomonas aeruginosa PAO1,lsv00130,Ubiquinone and other terpenoid-quinone biosynthesis - Lactuca sativa (garden lettuce)
+hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human)",pae00261,Monobactam biosynthesis - Pseudomonas aeruginosa PAO1,lsv00900,Terpenoid backbone biosynthesis - Lactuca sativa (garden lettuce)
+hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),pae00521,Streptomycin biosynthesis - Pseudomonas aeruginosa PAO1,lsv00902,Monoterpenoid biosynthesis - Lactuca sativa (garden lettuce)
+hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),pae00525,Acarbose and validamycin biosynthesis - Pseudomonas aeruginosa PAO1,lsv00909,Sesquiterpenoid and triterpenoid biosynthesis - Lactuca sativa (garden lettuce)
+hsa00983,Drug metabolism - other enzymes - Homo sapiens (human),pae00401,Novobiocin biosynthesis - Pseudomonas aeruginosa PAO1,lsv00904,Diterpenoid biosynthesis - Lactuca sativa (garden lettuce)
+hsa03020,RNA polymerase - Homo sapiens (human),pae00405,Phenazine biosynthesis - Pseudomonas aeruginosa PAO1,lsv00906,Carotenoid biosynthesis - Lactuca sativa (garden lettuce)
+hsa03022,Basal transcription factors - Homo sapiens (human),pae00999,Biosynthesis of various plant secondary metabolites - Pseudomonas aeruginosa PAO1,lsv00905,Brassinosteroid biosynthesis - Lactuca sativa (garden lettuce)
+hsa03040,Spliceosome - Homo sapiens (human),pae00997,Biosynthesis of various other secondary metabolites - Pseudomonas aeruginosa PAO1,lsv00908,Zeatin biosynthesis - Lactuca sativa (garden lettuce)
+hsa03010,Ribosome - Homo sapiens (human),pae00362,Benzoate degradation - Pseudomonas aeruginosa PAO1,lsv00940,Phenylpropanoid biosynthesis - Lactuca sativa (garden lettuce)
+hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human),pae00627,Aminobenzoate degradation - Pseudomonas aeruginosa PAO1,lsv00945,"Stilbenoid, diarylheptanoid and gingerol biosynthesis - Lactuca sativa (garden lettuce)"
+hsa03013,Nucleocytoplasmic transport - Homo sapiens (human),pae00364,Fluorobenzoate degradation - Pseudomonas aeruginosa PAO1,lsv00941,Flavonoid biosynthesis - Lactuca sativa (garden lettuce)
+hsa03015,mRNA surveillance pathway - Homo sapiens (human),pae00625,Chloroalkane and chloroalkene degradation - Pseudomonas aeruginosa PAO1,lsv00944,Flavone and flavonol biosynthesis - Lactuca sativa (garden lettuce)
+hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human),pae00361,Chlorocyclohexane and chlorobenzene degradation - Pseudomonas aeruginosa PAO1,lsv00942,Anthocyanin biosynthesis - Lactuca sativa (garden lettuce)
+hsa03060,Protein export - Homo sapiens (human),pae00623,Toluene degradation - Pseudomonas aeruginosa PAO1,lsv00943,Isoflavonoid biosynthesis - Lactuca sativa (garden lettuce)
+hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),pae00622,Xylene degradation - Pseudomonas aeruginosa PAO1,lsv00901,Indole alkaloid biosynthesis - Lactuca sativa (garden lettuce)
+hsa04130,SNARE interactions in vesicular transport - Homo sapiens (human),pae00633,Nitrotoluene degradation - Pseudomonas aeruginosa PAO1,lsv00950,Isoquinoline alkaloid biosynthesis - Lactuca sativa (garden lettuce)
+hsa04120,Ubiquitin mediated proteolysis - Homo sapiens (human),pae00643,Styrene degradation - Pseudomonas aeruginosa PAO1,lsv00960,"Tropane, piperidine and pyridine alkaloid biosynthesis - Lactuca sativa (garden lettuce)"
+hsa04122,Sulfur relay system - Homo sapiens (human),pae00930,Caprolactam degradation - Pseudomonas aeruginosa PAO1,lsv00232,Caffeine metabolism - Lactuca sativa (garden lettuce)
+hsa03050,Proteasome - Homo sapiens (human),pae00626,Naphthalene degradation - Pseudomonas aeruginosa PAO1,lsv00965,Betalain biosynthesis - Lactuca sativa (garden lettuce)
+hsa03018,RNA degradation - Homo sapiens (human),pae03020,RNA polymerase - Pseudomonas aeruginosa PAO1,lsv00966,Glucosinolate biosynthesis - Lactuca sativa (garden lettuce)
+hsa03030,DNA replication - Homo sapiens (human),pae03010,Ribosome - Pseudomonas aeruginosa PAO1,lsv00261,Monobactam biosynthesis - Lactuca sativa (garden lettuce)
+hsa03410,Base excision repair - Homo sapiens (human),pae00970,Aminoacyl-tRNA biosynthesis - Pseudomonas aeruginosa PAO1,lsv00999,Biosynthesis of various plant secondary metabolites - Lactuca sativa (garden lettuce)
+hsa03420,Nucleotide excision repair - Homo sapiens (human),pae03008,Ribosome biogenesis in eukaryotes - Pseudomonas aeruginosa PAO1,lsv03020,RNA polymerase - Lactuca sativa (garden lettuce)
+hsa03430,Mismatch repair - Homo sapiens (human),pae03060,Protein export - Pseudomonas aeruginosa PAO1,lsv03022,Basal transcription factors - Lactuca sativa (garden lettuce)
+hsa03440,Homologous recombination - Homo sapiens (human),pae04122,Sulfur relay system - Pseudomonas aeruginosa PAO1,lsv03040,Spliceosome - Lactuca sativa (garden lettuce)
+hsa03450,Non-homologous end-joining - Homo sapiens (human),pae03018,RNA degradation - Pseudomonas aeruginosa PAO1,lsv03010,Ribosome - Lactuca sativa (garden lettuce)
+hsa03460,Fanconi anemia pathway - Homo sapiens (human),pae03030,DNA replication - Pseudomonas aeruginosa PAO1,lsv00970,Aminoacyl-tRNA biosynthesis - Lactuca sativa (garden lettuce)
+hsa03082,ATP-dependent chromatin remodeling - Homo sapiens (human),pae03410,Base excision repair - Pseudomonas aeruginosa PAO1,lsv03013,Nucleocytoplasmic transport - Lactuca sativa (garden lettuce)
+hsa03083,Polycomb repressive complex - Homo sapiens (human),pae03420,Nucleotide excision repair - Pseudomonas aeruginosa PAO1,lsv03015,mRNA surveillance pathway - Lactuca sativa (garden lettuce)
+hsa03250,Viral life cycle - HIV-1 - Homo sapiens (human),pae03430,Mismatch repair - Pseudomonas aeruginosa PAO1,lsv03008,Ribosome biogenesis in eukaryotes - Lactuca sativa (garden lettuce)
+hsa03260,Virion - Human immunodeficiency virus - Homo sapiens (human),pae03440,Homologous recombination - Pseudomonas aeruginosa PAO1,lsv03060,Protein export - Lactuca sativa (garden lettuce)
+hsa03271,Virion - Rotavirus - Homo sapiens (human),pae03450,Non-homologous end-joining - Pseudomonas aeruginosa PAO1,lsv04141,Protein processing in endoplasmic reticulum - Lactuca sativa (garden lettuce)
+hsa03264,Virion - Flavivirus and Alphavirus - Homo sapiens (human),pae03250,Viral life cycle - HIV-1 - Pseudomonas aeruginosa PAO1,lsv04130,SNARE interactions in vesicular transport - Lactuca sativa (garden lettuce)
+hsa03265,"Virion - Ebolavirus, Lyssavirus and Morbillivirus - Homo sapiens (human)",pae02010,ABC transporters - Pseudomonas aeruginosa PAO1,lsv04120,Ubiquitin mediated proteolysis - Lactuca sativa (garden lettuce)
+hsa03273,Virion - Lassa virus and SFTS virus - Homo sapiens (human),pae02060,Phosphotransferase system (PTS) - Pseudomonas aeruginosa PAO1,lsv04122,Sulfur relay system - Lactuca sativa (garden lettuce)
+hsa03272,Virion - Hepatitis viruses - Homo sapiens (human),pae03070,Bacterial secretion system - Pseudomonas aeruginosa PAO1,lsv03050,Proteasome - Lactuca sativa (garden lettuce)
+hsa03266,Virion - Herpesvirus - Homo sapiens (human),pae02020,Two-component system - Pseudomonas aeruginosa PAO1,lsv03018,RNA degradation - Lactuca sativa (garden lettuce)
+hsa03267,Virion - Adenovirus - Homo sapiens (human),pae04146,Peroxisome - Pseudomonas aeruginosa PAO1,lsv03030,DNA replication - Lactuca sativa (garden lettuce)
+hsa02010,ABC transporters - Homo sapiens (human),pae04148,Efferocytosis - Pseudomonas aeruginosa PAO1,lsv03410,Base excision repair - Lactuca sativa (garden lettuce)
+hsa04010,MAPK signaling pathway - Homo sapiens (human),pae02024,Quorum sensing - Pseudomonas aeruginosa PAO1,lsv03420,Nucleotide excision repair - Lactuca sativa (garden lettuce)
+hsa04012,ErbB signaling pathway - Homo sapiens (human),pae02025,Biofilm formation - Pseudomonas aeruginosa - Pseudomonas aeruginosa PAO1,lsv03430,Mismatch repair - Lactuca sativa (garden lettuce)
+hsa04014,Ras signaling pathway - Homo sapiens (human),pae02030,Bacterial chemotaxis - Pseudomonas aeruginosa PAO1,lsv03440,Homologous recombination - Lactuca sativa (garden lettuce)
+hsa04015,Rap1 signaling pathway - Homo sapiens (human),pae02040,Flagellar assembly - Pseudomonas aeruginosa PAO1,lsv03450,Non-homologous end-joining - Lactuca sativa (garden lettuce)
+hsa04310,Wnt signaling pathway - Homo sapiens (human),pae04981,Folate transport and metabolism - Pseudomonas aeruginosa PAO1,lsv03460,Fanconi anemia pathway - Lactuca sativa (garden lettuce)
+hsa04330,Notch signaling pathway - Homo sapiens (human),pae04980,Cobalamin transport and metabolism - Pseudomonas aeruginosa PAO1,lsv03082,ATP-dependent chromatin remodeling - Lactuca sativa (garden lettuce)
+hsa04340,Hedgehog signaling pathway - Homo sapiens (human),pae01501,beta-Lactam resistance - Pseudomonas aeruginosa PAO1,lsv03083,Polycomb repressive complex - Lactuca sativa (garden lettuce)
+hsa04350,TGF-beta signaling pathway - Homo sapiens (human),pae01502,Vancomycin resistance - Pseudomonas aeruginosa PAO1,lsv03250,Viral life cycle - HIV-1 - Lactuca sativa (garden lettuce)
+hsa04390,Hippo signaling pathway - Homo sapiens (human),pae01503,Cationic antimicrobial peptide (CAMP) resistance - Pseudomonas aeruginosa PAO1,lsv03272,Virion - Hepatitis viruses - Lactuca sativa (garden lettuce)
+hsa04392,Hippo signaling pathway - multiple species - Homo sapiens (human),,,lsv02010,ABC transporters - Lactuca sativa (garden lettuce)
+hsa04370,VEGF signaling pathway - Homo sapiens (human),,,lsv04016,MAPK signaling pathway - plant - Lactuca sativa (garden lettuce)
+hsa04371,Apelin signaling pathway - Homo sapiens (human),,,lsv04070,Phosphatidylinositol signaling system - Lactuca sativa (garden lettuce)
+hsa04630,JAK-STAT signaling pathway - Homo sapiens (human),,,lsv04075,Plant hormone signal transduction - Lactuca sativa (garden lettuce)
+hsa04064,NF-kappa B signaling pathway - Homo sapiens (human),,,lsv04144,Endocytosis - Lactuca sativa (garden lettuce)
+hsa04668,TNF signaling pathway - Homo sapiens (human),,,lsv04145,Phagosome - Lactuca sativa (garden lettuce)
+hsa04066,HIF-1 signaling pathway - Homo sapiens (human),,,lsv04142,Lysosome - Lactuca sativa (garden lettuce)
+hsa04068,FoxO signaling pathway - Homo sapiens (human),,,lsv04146,Peroxisome - Lactuca sativa (garden lettuce)
+hsa04020,Calcium signaling pathway - Homo sapiens (human),,,lsv04136,Autophagy - other - Lactuca sativa (garden lettuce)
+hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),,,lsv04148,Efferocytosis - Lactuca sativa (garden lettuce)
+hsa04072,Phospholipase D signaling pathway - Homo sapiens (human),,,lsv04814,Motor proteins - Lactuca sativa (garden lettuce)
+hsa04071,Sphingolipid signaling pathway - Homo sapiens (human),,,lsv04820,Cytoskeleton in muscle cells - Lactuca sativa (garden lettuce)
+hsa04024,cAMP signaling pathway - Homo sapiens (human),,,lsv04620,Toll-like receptor signaling pathway - Lactuca sativa (garden lettuce)
+hsa04022,cGMP-PKG signaling pathway - Homo sapiens (human),,,lsv04981,Folate transport and metabolism - Lactuca sativa (garden lettuce)
+hsa04151,PI3K-Akt signaling pathway - Homo sapiens (human),,,lsv04712,Circadian rhythm - plant - Lactuca sativa (garden lettuce)
+hsa04152,AMPK signaling pathway - Homo sapiens (human),,,lsv04626,Plant-pathogen interaction - Lactuca sativa (garden lettuce)
+hsa04150,mTOR signaling pathway - Homo sapiens (human),,,lsv05100,Bacterial invasion of epithelial cells - Lactuca sativa (garden lettuce)
+hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human),,,,
+hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),,,,
+hsa04061,Viral protein interaction with cytokine and cytokine receptor - Homo sapiens (human),,,,
+hsa04512,ECM-receptor interaction - Homo sapiens (human),,,,
+hsa04514,Cell adhesion molecules - Homo sapiens (human),,,,
+hsa04144,Endocytosis - Homo sapiens (human),,,,
+hsa04145,Phagosome - Homo sapiens (human),,,,
+hsa04142,Lysosome - Homo sapiens (human),,,,
+hsa04146,Peroxisome - Homo sapiens (human),,,,
+hsa04140,Autophagy - animal - Homo sapiens (human),,,,
+hsa04136,Autophagy - other - Homo sapiens (human),,,,
+hsa04137,Mitophagy - animal - Homo sapiens (human),,,,
+hsa04148,Efferocytosis - Homo sapiens (human),,,,
+hsa04110,Cell cycle - Homo sapiens (human),,,,
+hsa04114,Oocyte meiosis - Homo sapiens (human),,,,
+hsa04210,Apoptosis - Homo sapiens (human),,,,
+hsa04215,Apoptosis - multiple species - Homo sapiens (human),,,,
+hsa04216,Ferroptosis - Homo sapiens (human),,,,
+hsa04217,Necroptosis - Homo sapiens (human),,,,
+hsa04115,p53 signaling pathway - Homo sapiens (human),,,,
+hsa04218,Cellular senescence - Homo sapiens (human),,,,
+hsa04510,Focal adhesion - Homo sapiens (human),,,,
+hsa04520,Adherens junction - Homo sapiens (human),,,,
+hsa04530,Tight junction - Homo sapiens (human),,,,
+hsa04540,Gap junction - Homo sapiens (human),,,,
+hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human),,,,
+hsa04814,Motor proteins - Homo sapiens (human),,,,
+hsa04820,Cytoskeleton in muscle cells - Homo sapiens (human),,,,
+hsa04810,Regulation of actin cytoskeleton - Homo sapiens (human),,,,
+hsa04640,Hematopoietic cell lineage - Homo sapiens (human),,,,
+hsa04610,Complement and coagulation cascades - Homo sapiens (human),,,,
+hsa04611,Platelet activation - Homo sapiens (human),,,,
+hsa04613,Neutrophil extracellular trap formation - Homo sapiens (human),,,,
+hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human),,,,
+hsa04621,NOD-like receptor signaling pathway - Homo sapiens (human),,,,
+hsa04622,RIG-I-like receptor signaling pathway - Homo sapiens (human),,,,
+hsa04623,Cytosolic DNA-sensing pathway - Homo sapiens (human),,,,
+hsa04625,C-type lectin receptor signaling pathway - Homo sapiens (human),,,,
+hsa04650,Natural killer cell mediated cytotoxicity - Homo sapiens (human),,,,
+hsa04612,Antigen processing and presentation - Homo sapiens (human),,,,
+hsa04660,T cell receptor signaling pathway - Homo sapiens (human),,,,
+hsa04658,Th1 and Th2 cell differentiation - Homo sapiens (human),,,,
+hsa04659,Th17 cell differentiation - Homo sapiens (human),,,,
+hsa04657,IL-17 signaling pathway - Homo sapiens (human),,,,
+hsa04662,B cell receptor signaling pathway - Homo sapiens (human),,,,
+hsa04664,Fc epsilon RI signaling pathway - Homo sapiens (human),,,,
+hsa04666,Fc gamma R-mediated phagocytosis - Homo sapiens (human),,,,
+hsa04670,Leukocyte transendothelial migration - Homo sapiens (human),,,,
+hsa04672,Intestinal immune network for IgA production - Homo sapiens (human),,,,
+hsa04062,Chemokine signaling pathway - Homo sapiens (human),,,,
+hsa04911,Insulin secretion - Homo sapiens (human),,,,
+hsa04910,Insulin signaling pathway - Homo sapiens (human),,,,
+hsa04922,Glucagon signaling pathway - Homo sapiens (human),,,,
+hsa04923,Regulation of lipolysis in adipocytes - Homo sapiens (human),,,,
+hsa04920,Adipocytokine signaling pathway - Homo sapiens (human),,,,
+hsa03320,PPAR signaling pathway - Homo sapiens (human),,,,
+hsa04929,GnRH secretion - Homo sapiens (human),,,,
+hsa04912,GnRH signaling pathway - Homo sapiens (human),,,,
+hsa04913,Ovarian steroidogenesis - Homo sapiens (human),,,,
+hsa04915,Estrogen signaling pathway - Homo sapiens (human),,,,
+hsa04914,Progesterone-mediated oocyte maturation - Homo sapiens (human),,,,
+hsa04917,Prolactin signaling pathway - Homo sapiens (human),,,,
+hsa04921,Oxytocin signaling pathway - Homo sapiens (human),,,,
+hsa04926,Relaxin signaling pathway - Homo sapiens (human),,,,
+hsa04935,"Growth hormone synthesis, secretion and action - Homo sapiens (human)",,,,
+hsa04918,Thyroid hormone synthesis - Homo sapiens (human),,,,
+hsa04919,Thyroid hormone signaling pathway - Homo sapiens (human),,,,
+hsa04928,"Parathyroid hormone synthesis, secretion and action - Homo sapiens (human)",,,,
+hsa04916,Melanogenesis - Homo sapiens (human),,,,
+hsa04924,Renin secretion - Homo sapiens (human),,,,
+hsa04614,Renin-angiotensin system - Homo sapiens (human),,,,
+hsa04925,Aldosterone synthesis and secretion - Homo sapiens (human),,,,
+hsa04927,Cortisol synthesis and secretion - Homo sapiens (human),,,,
+hsa04260,Cardiac muscle contraction - Homo sapiens (human),,,,
+hsa04261,Adrenergic signaling in cardiomyocytes - Homo sapiens (human),,,,
+hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),,,,
+hsa04970,Salivary secretion - Homo sapiens (human),,,,
+hsa04971,Gastric acid secretion - Homo sapiens (human),,,,
+hsa04972,Pancreatic secretion - Homo sapiens (human),,,,
+hsa04976,Bile secretion - Homo sapiens (human),,,,
+hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human),,,,
+hsa04974,Protein digestion and absorption - Homo sapiens (human),,,,
+hsa04975,Fat digestion and absorption - Homo sapiens (human),,,,
+hsa04979,Cholesterol metabolism - Homo sapiens (human),,,,
+hsa04977,Vitamin digestion and absorption - Homo sapiens (human),,,,
+hsa04981,Folate transport and metabolism - Homo sapiens (human),,,,
+hsa04980,Cobalamin transport and metabolism - Homo sapiens (human),,,,
+hsa04978,Mineral absorption - Homo sapiens (human),,,,
+hsa04962,Vasopressin-regulated water reabsorption - Homo sapiens (human),,,,
+hsa04960,Aldosterone-regulated sodium reabsorption - Homo sapiens (human),,,,
+hsa04961,Endocrine and other factor-regulated calcium reabsorption - Homo sapiens (human),,,,
+hsa04964,Proximal tubule bicarbonate reclamation - Homo sapiens (human),,,,
+hsa04966,Collecting duct acid secretion - Homo sapiens (human),,,,
+hsa04724,Glutamatergic synapse - Homo sapiens (human),,,,
+hsa04727,GABAergic synapse - Homo sapiens (human),,,,
+hsa04725,Cholinergic synapse - Homo sapiens (human),,,,
+hsa04728,Dopaminergic synapse - Homo sapiens (human),,,,
+hsa04726,Serotonergic synapse - Homo sapiens (human),,,,
+hsa04720,Long-term potentiation - Homo sapiens (human),,,,
+hsa04730,Long-term depression - Homo sapiens (human),,,,
+hsa04723,Retrograde endocannabinoid signaling - Homo sapiens (human),,,,
+hsa04721,Synaptic vesicle cycle - Homo sapiens (human),,,,
+hsa04722,Neurotrophin signaling pathway - Homo sapiens (human),,,,
+hsa04744,Phototransduction - Homo sapiens (human),,,,
+hsa04740,Olfactory transduction - Homo sapiens (human),,,,
+hsa04742,Taste transduction - Homo sapiens (human),,,,
+hsa04750,Inflammatory mediator regulation of TRP channels - Homo sapiens (human),,,,
+hsa04360,Axon guidance - Homo sapiens (human),,,,
+hsa04380,Osteoclast differentiation - Homo sapiens (human),,,,
+hsa04211,Longevity regulating pathway - Homo sapiens (human),,,,
+hsa04213,Longevity regulating pathway - multiple species - Homo sapiens (human),,,,
+hsa04710,Circadian rhythm - Homo sapiens (human),,,,
+hsa04713,Circadian entrainment - Homo sapiens (human),,,,
+hsa04714,Thermogenesis - Homo sapiens (human),,,,
+hsa05200,Pathways in cancer - Homo sapiens (human),,,,
+hsa05202,Transcriptional misregulation in cancer - Homo sapiens (human),,,,
+hsa05206,MicroRNAs in cancer - Homo sapiens (human),,,,
+hsa05205,Proteoglycans in cancer - Homo sapiens (human),,,,
+hsa05204,Chemical carcinogenesis - DNA adducts - Homo sapiens (human),,,,
+hsa05207,Chemical carcinogenesis - receptor activation - Homo sapiens (human),,,,
+hsa05208,Chemical carcinogenesis - reactive oxygen species - Homo sapiens (human),,,,
+hsa05203,Viral carcinogenesis - Homo sapiens (human),,,,
+hsa05230,Central carbon metabolism in cancer - Homo sapiens (human),,,,
+hsa05231,Choline metabolism in cancer - Homo sapiens (human),,,,
+hsa05235,PD-L1 expression and PD-1 checkpoint pathway in cancer - Homo sapiens (human),,,,
+hsa05210,Colorectal cancer - Homo sapiens (human),,,,
+hsa05212,Pancreatic cancer - Homo sapiens (human),,,,
+hsa05225,Hepatocellular carcinoma - Homo sapiens (human),,,,
+hsa05226,Gastric cancer - Homo sapiens (human),,,,
+hsa05214,Glioma - Homo sapiens (human),,,,
+hsa05216,Thyroid cancer - Homo sapiens (human),,,,
+hsa05221,Acute myeloid leukemia - Homo sapiens (human),,,,
+hsa05220,Chronic myeloid leukemia - Homo sapiens (human),,,,
+hsa05217,Basal cell carcinoma - Homo sapiens (human),,,,
+hsa05218,Melanoma - Homo sapiens (human),,,,
+hsa05211,Renal cell carcinoma - Homo sapiens (human),,,,
+hsa05219,Bladder cancer - Homo sapiens (human),,,,
+hsa05215,Prostate cancer - Homo sapiens (human),,,,
+hsa05213,Endometrial cancer - Homo sapiens (human),,,,
+hsa05224,Breast cancer - Homo sapiens (human),,,,
+hsa05222,Small cell lung cancer - Homo sapiens (human),,,,
+hsa05223,Non-small cell lung cancer - Homo sapiens (human),,,,
+hsa05166,Human T-cell leukemia virus 1 infection - Homo sapiens (human),,,,
+hsa05170,Human immunodeficiency virus 1 infection - Homo sapiens (human),,,,
+hsa05161,Hepatitis B - Homo sapiens (human),,,,
+hsa05160,Hepatitis C - Homo sapiens (human),,,,
+hsa05171,Coronavirus disease - COVID-19 - Homo sapiens (human),,,,
+hsa05164,Influenza A - Homo sapiens (human),,,,
+hsa05162,Measles - Homo sapiens (human),,,,
+hsa05168,Herpes simplex virus 1 infection - Homo sapiens (human),,,,
+hsa05163,Human cytomegalovirus infection - Homo sapiens (human),,,,
+hsa05167,Kaposi sarcoma-associated herpesvirus infection - Homo sapiens (human),,,,
+hsa05169,Epstein-Barr virus infection - Homo sapiens (human),,,,
+hsa05165,Human papillomavirus infection - Homo sapiens (human),,,,
+hsa05110,Vibrio cholerae infection - Homo sapiens (human),,,,
+hsa05120,Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human),,,,
+hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),,,,
+hsa05132,Salmonella infection - Homo sapiens (human),,,,
+hsa05131,Shigellosis - Homo sapiens (human),,,,
+hsa05135,Yersinia infection - Homo sapiens (human),,,,
+hsa05133,Pertussis - Homo sapiens (human),,,,
+hsa05134,Legionellosis - Homo sapiens (human),,,,
+hsa05150,Staphylococcus aureus infection - Homo sapiens (human),,,,
+hsa05152,Tuberculosis - Homo sapiens (human),,,,
+hsa05100,Bacterial invasion of epithelial cells - Homo sapiens (human),,,,
+hsa05146,Amoebiasis - Homo sapiens (human),,,,
+hsa05144,Malaria - Homo sapiens (human),,,,
+hsa05145,Toxoplasmosis - Homo sapiens (human),,,,
+hsa05140,Leishmaniasis - Homo sapiens (human),,,,
+hsa05142,Chagas disease - Homo sapiens (human),,,,
+hsa05143,African trypanosomiasis - Homo sapiens (human),,,,
+hsa05310,Asthma - Homo sapiens (human),,,,
+hsa05322,Systemic lupus erythematosus - Homo sapiens (human),,,,
+hsa05323,Rheumatoid arthritis - Homo sapiens (human),,,,
+hsa05320,Autoimmune thyroid disease - Homo sapiens (human),,,,
+hsa05321,Inflammatory bowel disease - Homo sapiens (human),,,,
+hsa05330,Allograft rejection - Homo sapiens (human),,,,
+hsa05332,Graft-versus-host disease - Homo sapiens (human),,,,
+hsa05340,Primary immunodeficiency - Homo sapiens (human),,,,
+hsa05010,Alzheimer disease - Homo sapiens (human),,,,
+hsa05012,Parkinson disease - Homo sapiens (human),,,,
+hsa05014,Amyotrophic lateral sclerosis - Homo sapiens (human),,,,
+hsa05016,Huntington disease - Homo sapiens (human),,,,
+hsa05017,Spinocerebellar ataxia - Homo sapiens (human),,,,
+hsa05020,Prion disease - Homo sapiens (human),,,,
+hsa05022,Pathways of neurodegeneration - multiple diseases - Homo sapiens (human),,,,
+hsa05030,Cocaine addiction - Homo sapiens (human),,,,
+hsa05031,Amphetamine addiction - Homo sapiens (human),,,,
+hsa05032,Morphine addiction - Homo sapiens (human),,,,
+hsa05033,Nicotine addiction - Homo sapiens (human),,,,
+hsa05034,Alcoholism - Homo sapiens (human),,,,
+hsa05417,Lipid and atherosclerosis - Homo sapiens (human),,,,
+hsa05418,Fluid shear stress and atherosclerosis - Homo sapiens (human),,,,
+hsa05410,Hypertrophic cardiomyopathy - Homo sapiens (human),,,,
+hsa05412,Arrhythmogenic right ventricular cardiomyopathy - Homo sapiens (human),,,,
+hsa05414,Dilated cardiomyopathy - Homo sapiens (human),,,,
+hsa05415,Diabetic cardiomyopathy - Homo sapiens (human),,,,
+hsa05416,Viral myocarditis - Homo sapiens (human),,,,
+hsa04930,Type II diabetes mellitus - Homo sapiens (human),,,,
+hsa04940,Type I diabetes mellitus - Homo sapiens (human),,,,
+hsa04950,Maturity onset diabetes of the young - Homo sapiens (human),,,,
+hsa04936,Alcoholic liver disease - Homo sapiens (human),,,,
+hsa04932,Non-alcoholic fatty liver disease - Homo sapiens (human),,,,
+hsa04931,Insulin resistance - Homo sapiens (human),,,,
+hsa04933,AGE-RAGE signaling pathway in diabetic complications - Homo sapiens (human),,,,
+hsa04934,Cushing syndrome - Homo sapiens (human),,,,
+hsa01521,EGFR tyrosine kinase inhibitor resistance - Homo sapiens (human),,,,
+hsa01524,Platinum drug resistance - Homo sapiens (human),,,,
+hsa01523,Antifolate resistance - Homo sapiens (human),,,,
+hsa01522,Endocrine resistance - Homo sapiens (human),,,,

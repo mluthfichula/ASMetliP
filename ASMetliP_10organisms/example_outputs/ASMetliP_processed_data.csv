@@ -1,0 +1,363 @@
+hsa,pae,lsv,rsx,ztr,bfu,cne,cng,cal,afm
+Metabolic pathways,Metabolic pathways,Metabolic pathways,Metabolic pathways,Metabolic pathways,Metabolic pathways,Metabolic pathways,Metabolic pathways,Metabolic pathways,Metabolic pathways
+Carbon metabolism,Biosynthesis of secondary metabolites,Biosynthesis of secondary metabolites,Biosynthesis of secondary metabolites,Biosynthesis of secondary metabolites,Biosynthesis of secondary metabolites,Biosynthesis of secondary metabolites,Biosynthesis of secondary metabolites,Biosynthesis of secondary metabolites,Biosynthesis of secondary metabolites
+2-Oxocarboxylic acid metabolism,Microbial metabolism in diverse environments,Carbon metabolism,Carbon metabolism,Carbon metabolism,Carbon metabolism,Carbon metabolism,Carbon metabolism,Carbon metabolism,Carbon metabolism
+Fatty acid metabolism,Carbon metabolism,2-Oxocarboxylic acid metabolism,2-Oxocarboxylic acid metabolism,2-Oxocarboxylic acid metabolism,2-Oxocarboxylic acid metabolism,2-Oxocarboxylic acid metabolism,2-Oxocarboxylic acid metabolism,2-Oxocarboxylic acid metabolism,2-Oxocarboxylic acid metabolism
+Biosynthesis of amino acids,2-Oxocarboxylic acid metabolism,Fatty acid metabolism,Fatty acid metabolism,Fatty acid metabolism,Fatty acid metabolism,Fatty acid metabolism,Fatty acid metabolism,Fatty acid metabolism,Fatty acid metabolism
+Nucleotide metabolism,Fatty acid metabolism,Biosynthesis of amino acids,Biosynthesis of amino acids,Biosynthesis of amino acids,Biosynthesis of amino acids,Biosynthesis of amino acids,Biosynthesis of amino acids,Biosynthesis of amino acids,Biosynthesis of amino acids
+Biosynthesis of nucleotide sugars,Biosynthesis of amino acids,Nucleotide metabolism,Nucleotide metabolism,Nucleotide metabolism,Nucleotide metabolism,Nucleotide metabolism,Nucleotide metabolism,Nucleotide metabolism,Nucleotide metabolism
+Biosynthesis of cofactors,Nucleotide metabolism,Biosynthesis of nucleotide sugars,Biosynthesis of nucleotide sugars,Biosynthesis of nucleotide sugars,Biosynthesis of nucleotide sugars,Biosynthesis of nucleotide sugars,Biosynthesis of nucleotide sugars,Biosynthesis of nucleotide sugars,Biosynthesis of nucleotide sugars
+Glycolysis / Gluconeogenesis,Biosynthesis of nucleotide sugars,Biosynthesis of cofactors,Biosynthesis of cofactors,Biosynthesis of cofactors,Biosynthesis of cofactors,Biosynthesis of cofactors,Biosynthesis of cofactors,Biosynthesis of cofactors,Biosynthesis of cofactors
+Citrate cycle (TCA cycle),Biosynthesis of cofactors,Nitrogen cycle,Nitrogen cycle,Nitrogen cycle,Nitrogen cycle,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,Nitrogen cycle
+Pentose phosphate pathway,Degradation of aromatic compounds,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,Citrate cycle (TCA cycle),Citrate cycle (TCA cycle),Citrate cycle (TCA cycle),Glycolysis / Gluconeogenesis
+Pentose and glucuronate interconversions,Nitrogen cycle,Citrate cycle (TCA cycle),Citrate cycle (TCA cycle),Citrate cycle (TCA cycle),Citrate cycle (TCA cycle),Pentose phosphate pathway,Pentose phosphate pathway,Pentose phosphate pathway,Citrate cycle (TCA cycle)
+Fructose and mannose metabolism,Glycolysis / Gluconeogenesis,Pentose phosphate pathway,Pentose phosphate pathway,Pentose phosphate pathway,Pentose phosphate pathway,Pentose and glucuronate interconversions,Pentose and glucuronate interconversions,Pentose and glucuronate interconversions,Pentose phosphate pathway
+Galactose metabolism,Citrate cycle (TCA cycle),Pentose and glucuronate interconversions,Pentose and glucuronate interconversions,Pentose and glucuronate interconversions,Pentose and glucuronate interconversions,Fructose and mannose metabolism,Fructose and mannose metabolism,Fructose and mannose metabolism,Pentose and glucuronate interconversions
+Ascorbate and aldarate metabolism,Pentose phosphate pathway,Fructose and mannose metabolism,Fructose and mannose metabolism,Fructose and mannose metabolism,Fructose and mannose metabolism,Galactose metabolism,Galactose metabolism,Galactose metabolism,Fructose and mannose metabolism
+Starch and sucrose metabolism,Pentose and glucuronate interconversions,Galactose metabolism,Galactose metabolism,Galactose metabolism,Galactose metabolism,Ascorbate and aldarate metabolism,Ascorbate and aldarate metabolism,Ascorbate and aldarate metabolism,Galactose metabolism
+Amino sugar and nucleotide sugar metabolism,Fructose and mannose metabolism,Ascorbate and aldarate metabolism,Ascorbate and aldarate metabolism,Ascorbate and aldarate metabolism,Ascorbate and aldarate metabolism,Starch and sucrose metabolism,Starch and sucrose metabolism,Starch and sucrose metabolism,Ascorbate and aldarate metabolism
+Pyruvate metabolism,Galactose metabolism,Starch and sucrose metabolism,Starch and sucrose metabolism,Starch and sucrose metabolism,Starch and sucrose metabolism,Amino sugar and nucleotide sugar metabolism,Amino sugar and nucleotide sugar metabolism,Amino sugar and nucleotide sugar metabolism,Starch and sucrose metabolism
+Glyoxylate and dicarboxylate metabolism,Ascorbate and aldarate metabolism,Amino sugar and nucleotide sugar metabolism,Amino sugar and nucleotide sugar metabolism,Amino sugar and nucleotide sugar metabolism,Amino sugar and nucleotide sugar metabolism,Pyruvate metabolism,Pyruvate metabolism,Pyruvate metabolism,Amino sugar and nucleotide sugar metabolism
+Propanoate metabolism,Starch and sucrose metabolism,Pyruvate metabolism,Pyruvate metabolism,Pyruvate metabolism,Pyruvate metabolism,Glyoxylate and dicarboxylate metabolism,Glyoxylate and dicarboxylate metabolism,Glyoxylate and dicarboxylate metabolism,Pyruvate metabolism
+Butanoate metabolism,Amino sugar and nucleotide sugar metabolism,Glyoxylate and dicarboxylate metabolism,Glyoxylate and dicarboxylate metabolism,Glyoxylate and dicarboxylate metabolism,Glyoxylate and dicarboxylate metabolism,Propanoate metabolism,Propanoate metabolism,Propanoate metabolism,Glyoxylate and dicarboxylate metabolism
+Inositol phosphate metabolism,Pyruvate metabolism,Propanoate metabolism,Propanoate metabolism,Propanoate metabolism,Propanoate metabolism,Butanoate metabolism,Butanoate metabolism,Butanoate metabolism,Propanoate metabolism
+Oxidative phosphorylation,Glyoxylate and dicarboxylate metabolism,Butanoate metabolism,Butanoate metabolism,Butanoate metabolism,Butanoate metabolism,C5-Branched dibasic acid metabolism,C5-Branched dibasic acid metabolism,C5-Branched dibasic acid metabolism,Butanoate metabolism
+Nitrogen metabolism,Propanoate metabolism,C5-Branched dibasic acid metabolism,C5-Branched dibasic acid metabolism,C5-Branched dibasic acid metabolism,C5-Branched dibasic acid metabolism,Inositol phosphate metabolism,Inositol phosphate metabolism,Inositol phosphate metabolism,C5-Branched dibasic acid metabolism
+Sulfur metabolism,Butanoate metabolism,Inositol phosphate metabolism,Inositol phosphate metabolism,Inositol phosphate metabolism,Inositol phosphate metabolism,Oxidative phosphorylation,Oxidative phosphorylation,Oxidative phosphorylation,Inositol phosphate metabolism
+Fatty acid biosynthesis,C5-Branched dibasic acid metabolism,Oxidative phosphorylation,Oxidative phosphorylation,Oxidative phosphorylation,Oxidative phosphorylation,Carbon fixation by Calvin cycle,Carbon fixation by Calvin cycle,Carbon fixation by Calvin cycle,Oxidative phosphorylation
+Fatty acid elongation,Inositol phosphate metabolism,Photosynthesis,Carbon fixation by Calvin cycle,Carbon fixation by Calvin cycle,Carbon fixation by Calvin cycle,Methane metabolism,Methane metabolism,Methane metabolism,Carbon fixation by Calvin cycle
+Fatty acid degradation,Oxidative phosphorylation,Photosynthesis - antenna proteins,Methane metabolism,Methane metabolism,Methane metabolism,Nitrogen metabolism,Nitrogen metabolism,Nitrogen metabolism,Methane metabolism
+Steroid biosynthesis,Carbon fixation by Calvin cycle,Carbon fixation by Calvin cycle,Nitrogen metabolism,Nitrogen metabolism,Nitrogen metabolism,Sulfur metabolism,Sulfur metabolism,Sulfur metabolism,Nitrogen metabolism
+Primary bile acid biosynthesis,Other carbon fixation pathways,Nitrogen metabolism,Sulfur metabolism,Sulfur metabolism,Sulfur metabolism,Fatty acid biosynthesis,Fatty acid biosynthesis,Fatty acid biosynthesis,Sulfur metabolism
+Steroid hormone biosynthesis,Methane metabolism,Sulfur metabolism,Fatty acid biosynthesis,Fatty acid biosynthesis,Fatty acid biosynthesis,Fatty acid elongation,Fatty acid elongation,Fatty acid elongation,Fatty acid biosynthesis
+Glycerolipid metabolism,Nitrogen metabolism,Fatty acid biosynthesis,Fatty acid elongation,Fatty acid elongation,Fatty acid elongation,Fatty acid degradation,Fatty acid degradation,Fatty acid degradation,Fatty acid elongation
+Glycerophospholipid metabolism,Sulfur metabolism,Fatty acid elongation,Fatty acid degradation,Fatty acid degradation,Fatty acid degradation,Steroid biosynthesis,Steroid biosynthesis,Steroid biosynthesis,Fatty acid degradation
+Ether lipid metabolism,Fatty acid biosynthesis,Fatty acid degradation,Steroid biosynthesis,"Cutin, suberine and wax biosynthesis","Cutin, suberine and wax biosynthesis",Glycerolipid metabolism,Glycerolipid metabolism,Glycerolipid metabolism,Steroid biosynthesis
+Sphingolipid metabolism,Fatty acid degradation,"Cutin, suberine and wax biosynthesis",Glycerolipid metabolism,Steroid biosynthesis,Steroid biosynthesis,Glycerophospholipid metabolism,Glycerophospholipid metabolism,Glycerophospholipid metabolism,Glycerolipid metabolism
+Arachidonic acid metabolism,Mycolic acid biosynthesis,Steroid biosynthesis,Glycerophospholipid metabolism,Glycerolipid metabolism,Glycerolipid metabolism,Ether lipid metabolism,Ether lipid metabolism,Ether lipid metabolism,Glycerophospholipid metabolism
+Linoleic acid metabolism,Glycerolipid metabolism,Glycerolipid metabolism,Ether lipid metabolism,Glycerophospholipid metabolism,Glycerophospholipid metabolism,Sphingolipid metabolism,Sphingolipid metabolism,Sphingolipid metabolism,Ether lipid metabolism
+alpha-Linolenic acid metabolism,Glycerophospholipid metabolism,Glycerophospholipid metabolism,Sphingolipid metabolism,Ether lipid metabolism,Ether lipid metabolism,Arachidonic acid metabolism,Arachidonic acid metabolism,Arachidonic acid metabolism,Sphingolipid metabolism
+Biosynthesis of unsaturated fatty acids,Ether lipid metabolism,Ether lipid metabolism,Arachidonic acid metabolism,Sphingolipid metabolism,Sphingolipid metabolism,alpha-Linolenic acid metabolism,alpha-Linolenic acid metabolism,alpha-Linolenic acid metabolism,Arachidonic acid metabolism
+Purine metabolism,Sphingolipid metabolism,Sphingolipid metabolism,Linoleic acid metabolism,Arachidonic acid metabolism,Arachidonic acid metabolism,Biosynthesis of unsaturated fatty acids,Biosynthesis of unsaturated fatty acids,Biosynthesis of unsaturated fatty acids,Linoleic acid metabolism
+Pyrimidine metabolism,alpha-Linolenic acid metabolism,Arachidonic acid metabolism,alpha-Linolenic acid metabolism,alpha-Linolenic acid metabolism,Linoleic acid metabolism,Purine metabolism,Purine metabolism,Purine metabolism,alpha-Linolenic acid metabolism
+"Alanine, aspartate and glutamate metabolism",Biosynthesis of unsaturated fatty acids,Linoleic acid metabolism,Biosynthesis of unsaturated fatty acids,Biosynthesis of unsaturated fatty acids,alpha-Linolenic acid metabolism,Pyrimidine metabolism,Pyrimidine metabolism,Pyrimidine metabolism,Biosynthesis of unsaturated fatty acids
+"Glycine, serine and threonine metabolism",Purine metabolism,alpha-Linolenic acid metabolism,Purine metabolism,Purine metabolism,Biosynthesis of unsaturated fatty acids,"Alanine, aspartate and glutamate metabolism","Alanine, aspartate and glutamate metabolism","Alanine, aspartate and glutamate metabolism",Purine metabolism
+Cysteine and methionine metabolism,Pyrimidine metabolism,Biosynthesis of unsaturated fatty acids,Pyrimidine metabolism,Pyrimidine metabolism,Purine metabolism,"Glycine, serine and threonine metabolism","Glycine, serine and threonine metabolism","Glycine, serine and threonine metabolism",Pyrimidine metabolism
+"Valine, leucine and isoleucine degradation","Alanine, aspartate and glutamate metabolism",Purine metabolism,"Alanine, aspartate and glutamate metabolism","Alanine, aspartate and glutamate metabolism",Pyrimidine metabolism,Cysteine and methionine metabolism,Cysteine and methionine metabolism,Cysteine and methionine metabolism,"Alanine, aspartate and glutamate metabolism"
+"Valine, leucine and isoleucine biosynthesis","Glycine, serine and threonine metabolism",Pyrimidine metabolism,"Glycine, serine and threonine metabolism","Glycine, serine and threonine metabolism","Alanine, aspartate and glutamate metabolism","Valine, leucine and isoleucine degradation","Valine, leucine and isoleucine degradation","Valine, leucine and isoleucine degradation","Glycine, serine and threonine metabolism"
+Lysine degradation,Cysteine and methionine metabolism,"Alanine, aspartate and glutamate metabolism",Cysteine and methionine metabolism,Cysteine and methionine metabolism,"Glycine, serine and threonine metabolism","Valine, leucine and isoleucine biosynthesis","Valine, leucine and isoleucine biosynthesis","Valine, leucine and isoleucine biosynthesis",Cysteine and methionine metabolism
+Arginine biosynthesis,"Valine, leucine and isoleucine degradation","Glycine, serine and threonine metabolism","Valine, leucine and isoleucine degradation","Valine, leucine and isoleucine degradation",Cysteine and methionine metabolism,Lysine biosynthesis,Lysine biosynthesis,Lysine biosynthesis,"Valine, leucine and isoleucine degradation"
+Arginine and proline metabolism,"Valine, leucine and isoleucine biosynthesis",Cysteine and methionine metabolism,"Valine, leucine and isoleucine biosynthesis","Valine, leucine and isoleucine biosynthesis","Valine, leucine and isoleucine degradation",Lysine degradation,Lysine degradation,Lysine degradation,"Valine, leucine and isoleucine biosynthesis"
+Histidine metabolism,Lysine biosynthesis,"Valine, leucine and isoleucine degradation",Lysine biosynthesis,Lysine biosynthesis,"Valine, leucine and isoleucine biosynthesis",Arginine biosynthesis,Arginine biosynthesis,Arginine biosynthesis,Lysine biosynthesis
+Tyrosine metabolism,Lysine degradation,"Valine, leucine and isoleucine biosynthesis",Lysine degradation,Lysine degradation,Lysine biosynthesis,Arginine and proline metabolism,Arginine and proline metabolism,Arginine and proline metabolism,Lysine degradation
+Phenylalanine metabolism,Arginine biosynthesis,Lysine biosynthesis,Arginine biosynthesis,Arginine biosynthesis,Lysine degradation,Histidine metabolism,Histidine metabolism,Histidine metabolism,Arginine biosynthesis
+Tryptophan metabolism,Arginine and proline metabolism,Lysine degradation,Arginine and proline metabolism,Arginine and proline metabolism,Arginine biosynthesis,Tyrosine metabolism,Tyrosine metabolism,Tyrosine metabolism,Arginine and proline metabolism
+"Phenylalanine, tyrosine and tryptophan biosynthesis",Histidine metabolism,Arginine biosynthesis,Histidine metabolism,Histidine metabolism,Arginine and proline metabolism,Phenylalanine metabolism,Phenylalanine metabolism,Phenylalanine metabolism,Histidine metabolism
+beta-Alanine metabolism,Tyrosine metabolism,Arginine and proline metabolism,Tyrosine metabolism,Tyrosine metabolism,Histidine metabolism,Tryptophan metabolism,Tryptophan metabolism,Tryptophan metabolism,Tyrosine metabolism
+Taurine and hypotaurine metabolism,Phenylalanine metabolism,Histidine metabolism,Phenylalanine metabolism,Phenylalanine metabolism,Tyrosine metabolism,"Phenylalanine, tyrosine and tryptophan biosynthesis","Phenylalanine, tyrosine and tryptophan biosynthesis","Phenylalanine, tyrosine and tryptophan biosynthesis",Phenylalanine metabolism
+Phosphonate and phosphinate metabolism,Tryptophan metabolism,Tyrosine metabolism,Tryptophan metabolism,Tryptophan metabolism,Phenylalanine metabolism,beta-Alanine metabolism,beta-Alanine metabolism,beta-Alanine metabolism,Tryptophan metabolism
+Selenocompound metabolism,"Phenylalanine, tyrosine and tryptophan biosynthesis",Phenylalanine metabolism,"Phenylalanine, tyrosine and tryptophan biosynthesis","Phenylalanine, tyrosine and tryptophan biosynthesis",Tryptophan metabolism,Taurine and hypotaurine metabolism,Taurine and hypotaurine metabolism,Taurine and hypotaurine metabolism,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+D-Amino acid metabolism,beta-Alanine metabolism,Tryptophan metabolism,beta-Alanine metabolism,beta-Alanine metabolism,"Phenylalanine, tyrosine and tryptophan biosynthesis",Phosphonate and phosphinate metabolism,Phosphonate and phosphinate metabolism,Phosphonate and phosphinate metabolism,beta-Alanine metabolism
+Glutathione metabolism,Taurine and hypotaurine metabolism,"Phenylalanine, tyrosine and tryptophan biosynthesis",Taurine and hypotaurine metabolism,Taurine and hypotaurine metabolism,beta-Alanine metabolism,Selenocompound metabolism,Selenocompound metabolism,Selenocompound metabolism,Taurine and hypotaurine metabolism
+N-Glycan biosynthesis,Phosphonate and phosphinate metabolism,beta-Alanine metabolism,Phosphonate and phosphinate metabolism,Phosphonate and phosphinate metabolism,Taurine and hypotaurine metabolism,Cyanoamino acid metabolism,Cyanoamino acid metabolism,Cyanoamino acid metabolism,Phosphonate and phosphinate metabolism
+Various types of N-glycan biosynthesis,Selenocompound metabolism,Taurine and hypotaurine metabolism,Selenocompound metabolism,Selenocompound metabolism,Phosphonate and phosphinate metabolism,D-Amino acid metabolism,D-Amino acid metabolism,D-Amino acid metabolism,Selenocompound metabolism
+Mucin type O-glycan biosynthesis,Cyanoamino acid metabolism,Phosphonate and phosphinate metabolism,Cyanoamino acid metabolism,Cyanoamino acid metabolism,Selenocompound metabolism,Glutathione metabolism,Glutathione metabolism,Glutathione metabolism,Cyanoamino acid metabolism
+Mannose type O-glycan biosynthesis,D-Amino acid metabolism,Selenocompound metabolism,D-Amino acid metabolism,D-Amino acid metabolism,Cyanoamino acid metabolism,N-Glycan biosynthesis,N-Glycan biosynthesis,N-Glycan biosynthesis,D-Amino acid metabolism
+Other types of O-glycan biosynthesis,Glutathione metabolism,Cyanoamino acid metabolism,Glutathione metabolism,Glutathione metabolism,D-Amino acid metabolism,Various types of N-glycan biosynthesis,Various types of N-glycan biosynthesis,Various types of N-glycan biosynthesis,Glutathione metabolism
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,Lipopolysaccharide biosynthesis,D-Amino acid metabolism,N-Glycan biosynthesis,N-Glycan biosynthesis,Glutathione metabolism,Mannose type O-glycan biosynthesis,Mannose type O-glycan biosynthesis,Mannose type O-glycan biosynthesis,N-Glycan biosynthesis
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin,O-Antigen nucleotide sugar biosynthesis,Glutathione metabolism,Various types of N-glycan biosynthesis,Various types of N-glycan biosynthesis,N-Glycan biosynthesis,Other types of O-glycan biosynthesis,Other types of O-glycan biosynthesis,Other types of O-glycan biosynthesis,Various types of N-glycan biosynthesis
+Glycosaminoglycan biosynthesis - keratan sulfate,Peptidoglycan biosynthesis,N-Glycan biosynthesis,Mannose type O-glycan biosynthesis,Mannose type O-glycan biosynthesis,Various types of N-glycan biosynthesis,Glycosaminoglycan degradation,Glycosaminoglycan degradation,Glycosaminoglycan degradation,Mannose type O-glycan biosynthesis
+Glycosaminoglycan degradation,Teichoic acid biosynthesis,Various types of N-glycan biosynthesis,Other types of O-glycan biosynthesis,Other types of O-glycan biosynthesis,Mannose type O-glycan biosynthesis,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Other types of O-glycan biosynthesis
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Exopolysaccharide biosynthesis,Other types of O-glycan biosynthesis,Glycosaminoglycan degradation,Glycosaminoglycan degradation,Other types of O-glycan biosynthesis,Glycosphingolipid biosynthesis - ganglio series,Glycosphingolipid biosynthesis - ganglio series,Glycosphingolipid biosynthesis - ganglio series,Glycosaminoglycan degradation
+Glycosphingolipid biosynthesis - lacto and neolacto series,Thiamine metabolism,Glycosaminoglycan degradation,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Glycosaminoglycan degradation,Other glycan degradation,Other glycan degradation,Other glycan degradation,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+Glycosphingolipid biosynthesis - globo and isoglobo series,Riboflavin metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Glycosphingolipid biosynthesis - globo and isoglobo series,Glycosphingolipid biosynthesis - globo and isoglobo series,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,Thiamine metabolism,Thiamine metabolism,Thiamine metabolism,Glycosphingolipid biosynthesis - globo and isoglobo series
+Glycosphingolipid biosynthesis - ganglio series,Vitamin B6 metabolism,Glycosphingolipid biosynthesis - lacto and neolacto series,Glycosphingolipid biosynthesis - ganglio series,Glycosphingolipid biosynthesis - ganglio series,Glycosphingolipid biosynthesis - globo and isoglobo series,Riboflavin metabolism,Riboflavin metabolism,Riboflavin metabolism,Other glycan degradation
+Other glycan degradation,Nicotinate and nicotinamide metabolism,Glycosphingolipid biosynthesis - globo and isoglobo series,Other glycan degradation,Other glycan degradation,Glycosphingolipid biosynthesis - ganglio series,Vitamin B6 metabolism,Vitamin B6 metabolism,Vitamin B6 metabolism,Thiamine metabolism
+Thiamine metabolism,Pantothenate and CoA biosynthesis,Glycosphingolipid biosynthesis - ganglio series,Thiamine metabolism,Thiamine metabolism,Other glycan degradation,Nicotinate and nicotinamide metabolism,Nicotinate and nicotinamide metabolism,Nicotinate and nicotinamide metabolism,Riboflavin metabolism
+Riboflavin metabolism,Biotin metabolism,Other glycan degradation,Riboflavin metabolism,Riboflavin metabolism,Thiamine metabolism,Pantothenate and CoA biosynthesis,Pantothenate and CoA biosynthesis,Pantothenate and CoA biosynthesis,Vitamin B6 metabolism
+Vitamin B6 metabolism,Lipoic acid metabolism,Exopolysaccharide biosynthesis,Vitamin B6 metabolism,Vitamin B6 metabolism,Riboflavin metabolism,Biotin metabolism,Biotin metabolism,Biotin metabolism,Nicotinate and nicotinamide metabolism
+Nicotinate and nicotinamide metabolism,Folate biosynthesis,Thiamine metabolism,Nicotinate and nicotinamide metabolism,Nicotinate and nicotinamide metabolism,Vitamin B6 metabolism,Lipoic acid metabolism,Lipoic acid metabolism,Lipoic acid metabolism,Pantothenate and CoA biosynthesis
+Pantothenate and CoA biosynthesis,One carbon pool by folate,Riboflavin metabolism,Pantothenate and CoA biosynthesis,Pantothenate and CoA biosynthesis,Nicotinate and nicotinamide metabolism,Folate biosynthesis,Folate biosynthesis,Folate biosynthesis,Biotin metabolism
+Biotin metabolism,Porphyrin metabolism,Vitamin B6 metabolism,Biotin metabolism,Biotin metabolism,Pantothenate and CoA biosynthesis,One carbon pool by folate,One carbon pool by folate,One carbon pool by folate,Lipoic acid metabolism
+Lipoic acid metabolism,Ubiquinone and other terpenoid-quinone biosynthesis,Nicotinate and nicotinamide metabolism,Lipoic acid metabolism,Lipoic acid metabolism,Biotin metabolism,Porphyrin metabolism,Porphyrin metabolism,Porphyrin metabolism,Folate biosynthesis
+Folate biosynthesis,Terpenoid backbone biosynthesis,Pantothenate and CoA biosynthesis,Folate biosynthesis,Folate biosynthesis,Lipoic acid metabolism,Ubiquinone and other terpenoid-quinone biosynthesis,Ubiquinone and other terpenoid-quinone biosynthesis,Ubiquinone and other terpenoid-quinone biosynthesis,One carbon pool by folate
+One carbon pool by folate,Limonene degradation,Biotin metabolism,One carbon pool by folate,One carbon pool by folate,Folate biosynthesis,Terpenoid backbone biosynthesis,Terpenoid backbone biosynthesis,Terpenoid backbone biosynthesis,Porphyrin metabolism
+Retinol metabolism,"Pinene, camphor and geraniol degradation",Lipoic acid metabolism,Porphyrin metabolism,Porphyrin metabolism,One carbon pool by folate,Sesquiterpenoid and triterpenoid biosynthesis,Sesquiterpenoid and triterpenoid biosynthesis,Sesquiterpenoid and triterpenoid biosynthesis,Ubiquinone and other terpenoid-quinone biosynthesis
+Porphyrin metabolism,Polyketide sugar unit biosynthesis,Folate biosynthesis,Ubiquinone and other terpenoid-quinone biosynthesis,Ubiquinone and other terpenoid-quinone biosynthesis,Porphyrin metabolism,Carbapenem biosynthesis,Carbapenem biosynthesis,Carbapenem biosynthesis,Terpenoid backbone biosynthesis
+Ubiquinone and other terpenoid-quinone biosynthesis,Biosynthesis of siderophore group nonribosomal peptides,One carbon pool by folate,Terpenoid backbone biosynthesis,Terpenoid backbone biosynthesis,Ubiquinone and other terpenoid-quinone biosynthesis,Monobactam biosynthesis,Monobactam biosynthesis,Monobactam biosynthesis,Sesquiterpenoid and triterpenoid biosynthesis
+Terpenoid backbone biosynthesis,Degradation of flavonoids,Porphyrin metabolism,Sesquiterpenoid and triterpenoid biosynthesis,Sesquiterpenoid and triterpenoid biosynthesis,Terpenoid backbone biosynthesis,Biosynthesis of various plant secondary metabolites,Biosynthesis of various plant secondary metabolites,Biosynthesis of various plant secondary metabolites,Carotenoid biosynthesis
+Caffeine metabolism,Carbapenem biosynthesis,Ubiquinone and other terpenoid-quinone biosynthesis,Carbapenem biosynthesis,Diterpenoid biosynthesis,Sesquiterpenoid and triterpenoid biosynthesis,RNA polymerase,Atrazine degradation,Atrazine degradation,Biosynthesis of siderophore group nonribosomal peptides
+"Neomycin, kanamycin and gentamicin biosynthesis",Monobactam biosynthesis,Terpenoid backbone biosynthesis,Monobactam biosynthesis,Carotenoid biosynthesis,Diterpenoid biosynthesis,Basal transcription factors,RNA polymerase,RNA polymerase,Indole alkaloid biosynthesis
+Metabolism of xenobiotics by cytochrome P450,Streptomycin biosynthesis,Monoterpenoid biosynthesis,Biosynthesis of various plant secondary metabolites,Caffeine metabolism,Carotenoid biosynthesis,Spliceosome,Basal transcription factors,Basal transcription factors,Indole diterpene alkaloid biosynthesis
+Drug metabolism - cytochrome P450,Acarbose and validamycin biosynthesis,Sesquiterpenoid and triterpenoid biosynthesis,Atrazine degradation,Penicillin and cephalosporin biosynthesis,Indole diterpene alkaloid biosynthesis,Ribosome,Spliceosome,Spliceosome,Caffeine metabolism
+Drug metabolism - other enzymes,Novobiocin biosynthesis,Diterpenoid biosynthesis,RNA polymerase,Carbapenem biosynthesis,Caffeine metabolism,Aminoacyl-tRNA biosynthesis,Ribosome,Ribosome,Penicillin and cephalosporin biosynthesis
+RNA polymerase,Phenazine biosynthesis,Carotenoid biosynthesis,Basal transcription factors,Monobactam biosynthesis,Penicillin and cephalosporin biosynthesis,Nucleocytoplasmic transport,Aminoacyl-tRNA biosynthesis,Aminoacyl-tRNA biosynthesis,Carbapenem biosynthesis
+Basal transcription factors,Biosynthesis of various plant secondary metabolites,Brassinosteroid biosynthesis,Spliceosome,Staurosporine biosynthesis,Carbapenem biosynthesis,mRNA surveillance pathway,Nucleocytoplasmic transport,Nucleocytoplasmic transport,Monobactam biosynthesis
+Spliceosome,Biosynthesis of various other secondary metabolites,Zeatin biosynthesis,Ribosome,Aflatoxin biosynthesis,Monobactam biosynthesis,Ribosome biogenesis in eukaryotes,mRNA surveillance pathway,mRNA surveillance pathway,Staurosporine biosynthesis
+Ribosome,Benzoate degradation,Phenylpropanoid biosynthesis,Aminoacyl-tRNA biosynthesis,Biosynthesis of various plant secondary metabolites,Staurosporine biosynthesis,Protein export,Ribosome biogenesis in eukaryotes,Ribosome biogenesis in eukaryotes,Aflatoxin biosynthesis
+Aminoacyl-tRNA biosynthesis,Aminobenzoate degradation,"Stilbenoid, diarylheptanoid and gingerol biosynthesis",Nucleocytoplasmic transport,RNA polymerase,Aflatoxin biosynthesis,Protein processing in endoplasmic reticulum,Protein export,Protein export,Biosynthesis of various antibiotics
+Nucleocytoplasmic transport,Fluorobenzoate degradation,Flavonoid biosynthesis,mRNA surveillance pathway,Basal transcription factors,Biosynthesis of various plant secondary metabolites,SNARE interactions in vesicular transport,Protein processing in endoplasmic reticulum,Protein processing in endoplasmic reticulum,Biosynthesis of various plant secondary metabolites
+mRNA surveillance pathway,Chloroalkane and chloroalkene degradation,Flavone and flavonol biosynthesis,Ribosome biogenesis in eukaryotes,Spliceosome,Atrazine degradation,Ubiquitin mediated proteolysis,SNARE interactions in vesicular transport,SNARE interactions in vesicular transport,Biosynthesis of various other secondary metabolites
+Ribosome biogenesis in eukaryotes,Chlorocyclohexane and chlorobenzene degradation,Anthocyanin biosynthesis,Protein export,Ribosome,RNA polymerase,Sulfur relay system,Ubiquitin mediated proteolysis,Ubiquitin mediated proteolysis,Atrazine degradation
+Protein export,Toluene degradation,Isoflavonoid biosynthesis,Protein processing in endoplasmic reticulum,Aminoacyl-tRNA biosynthesis,Basal transcription factors,Proteasome,Sulfur relay system,Sulfur relay system,RNA polymerase
+Protein processing in endoplasmic reticulum,Xylene degradation,Indole alkaloid biosynthesis,SNARE interactions in vesicular transport,Nucleocytoplasmic transport,Spliceosome,RNA degradation,Proteasome,Proteasome,Basal transcription factors
+SNARE interactions in vesicular transport,Nitrotoluene degradation,Isoquinoline alkaloid biosynthesis,Ubiquitin mediated proteolysis,mRNA surveillance pathway,Ribosome,DNA replication,RNA degradation,RNA degradation,Spliceosome
+Ubiquitin mediated proteolysis,Styrene degradation,"Tropane, piperidine and pyridine alkaloid biosynthesis",Sulfur relay system,Ribosome biogenesis in eukaryotes,Aminoacyl-tRNA biosynthesis,Base excision repair,DNA replication,DNA replication,Ribosome
+Sulfur relay system,Caprolactam degradation,Caffeine metabolism,Proteasome,Protein export,Nucleocytoplasmic transport,Nucleotide excision repair,Base excision repair,Base excision repair,Aminoacyl-tRNA biosynthesis
+Proteasome,Naphthalene degradation,Betalain biosynthesis,RNA degradation,Protein processing in endoplasmic reticulum,mRNA surveillance pathway,Mismatch repair,Nucleotide excision repair,Nucleotide excision repair,Nucleocytoplasmic transport
+RNA degradation,RNA polymerase,Glucosinolate biosynthesis,DNA replication,SNARE interactions in vesicular transport,Ribosome biogenesis in eukaryotes,Homologous recombination,Mismatch repair,Mismatch repair,mRNA surveillance pathway
+DNA replication,Ribosome,Monobactam biosynthesis,Base excision repair,Ubiquitin mediated proteolysis,Protein export,Non-homologous end-joining,Homologous recombination,Homologous recombination,Ribosome biogenesis in eukaryotes
+Base excision repair,Aminoacyl-tRNA biosynthesis,Biosynthesis of various plant secondary metabolites,Nucleotide excision repair,Sulfur relay system,Protein processing in endoplasmic reticulum,Fanconi anemia pathway,Non-homologous end-joining,Non-homologous end-joining,Protein export
+Nucleotide excision repair,Ribosome biogenesis in eukaryotes,RNA polymerase,Mismatch repair,Proteasome,SNARE interactions in vesicular transport,ATP-dependent chromatin remodeling,Fanconi anemia pathway,Fanconi anemia pathway,Protein processing in endoplasmic reticulum
+Mismatch repair,Protein export,Basal transcription factors,Homologous recombination,RNA degradation,Ubiquitin mediated proteolysis,Polycomb repressive complex,ATP-dependent chromatin remodeling,ATP-dependent chromatin remodeling,SNARE interactions in vesicular transport
+Homologous recombination,Sulfur relay system,Spliceosome,Non-homologous end-joining,DNA replication,Sulfur relay system,Viral life cycle - HIV-1,Polycomb repressive complex,Polycomb repressive complex,Ubiquitin mediated proteolysis
+Non-homologous end-joining,RNA degradation,Ribosome,Fanconi anemia pathway,Base excision repair,Proteasome,Virion - Hepatitis viruses,Viral life cycle - HIV-1,Viral life cycle - HIV-1,Sulfur relay system
+Fanconi anemia pathway,DNA replication,Aminoacyl-tRNA biosynthesis,ATP-dependent chromatin remodeling,Nucleotide excision repair,RNA degradation,ABC transporters,Virion - Hepatitis viruses,Virion - Hepatitis viruses,Proteasome
+ATP-dependent chromatin remodeling,Base excision repair,Nucleocytoplasmic transport,Polycomb repressive complex,Mismatch repair,DNA replication,MAPK signaling pathway - yeast,ABC transporters,ABC transporters,RNA degradation
+Polycomb repressive complex,Nucleotide excision repair,mRNA surveillance pathway,Viral life cycle - HIV-1,Homologous recombination,Base excision repair,Phosphatidylinositol signaling system,MAPK signaling pathway - yeast,MAPK signaling pathway - yeast,DNA replication
+Viral life cycle - HIV-1,Mismatch repair,Ribosome biogenesis in eukaryotes,Virion - Hepatitis viruses,Non-homologous end-joining,Nucleotide excision repair,Endocytosis,Phosphatidylinositol signaling system,Phosphatidylinositol signaling system,Base excision repair
+Virion - Human immunodeficiency virus,Homologous recombination,Protein export,ABC transporters,Fanconi anemia pathway,Mismatch repair,Phagosome,Endocytosis,Endocytosis,Nucleotide excision repair
+Virion - Rotavirus,Non-homologous end-joining,Protein processing in endoplasmic reticulum,MAPK signaling pathway - yeast,ATP-dependent chromatin remodeling,Homologous recombination,Lysosome,Phagosome,Phagosome,Mismatch repair
+Virion - Flavivirus and Alphavirus,Viral life cycle - HIV-1,SNARE interactions in vesicular transport,Phosphatidylinositol signaling system,Polycomb repressive complex,Non-homologous end-joining,Peroxisome,Lysosome,Lysosome,Homologous recombination
+"Virion - Ebolavirus, Lyssavirus and Morbillivirus",ABC transporters,Ubiquitin mediated proteolysis,Endocytosis,Viral life cycle - HIV-1,Fanconi anemia pathway,Autophagy - yeast,Peroxisome,Peroxisome,Non-homologous end-joining
+Virion - Lassa virus and SFTS virus,Phosphotransferase system (PTS),Sulfur relay system,Phagosome,Virion - Hepatitis viruses,ATP-dependent chromatin remodeling,Autophagy - other,Autophagy - yeast,Autophagy - yeast,Fanconi anemia pathway
+Virion - Hepatitis viruses,Bacterial secretion system,Proteasome,Lysosome,ABC transporters,Polycomb repressive complex,Mitophagy - yeast,Autophagy - other,Autophagy - other,ATP-dependent chromatin remodeling
+Virion - Herpesvirus,Two-component system,RNA degradation,Peroxisome,MAPK signaling pathway - yeast,Viral life cycle - HIV-1,Efferocytosis,Mitophagy - yeast,Mitophagy - yeast,Polycomb repressive complex
+Virion - Adenovirus,Peroxisome,DNA replication,Autophagy - yeast,Phosphatidylinositol signaling system,Virion - Hepatitis viruses,Cell cycle - yeast,Efferocytosis,Efferocytosis,Viral life cycle - HIV-1
+ABC transporters,Efferocytosis,Base excision repair,Autophagy - other,Endocytosis,ABC transporters,Meiosis - yeast,Cell cycle - yeast,Cell cycle - yeast,Virion - Hepatitis viruses
+MAPK signaling pathway,Quorum sensing,Nucleotide excision repair,Mitophagy - yeast,Phagosome,MAPK signaling pathway - yeast,Motor proteins,Meiosis - yeast,Meiosis - yeast,ABC transporters
+ErbB signaling pathway,Biofilm formation - Pseudomonas aeruginosa,Mismatch repair,Efferocytosis,Lysosome,Phosphatidylinositol signaling system,Cytoskeleton in muscle cells,Motor proteins,Motor proteins,MAPK signaling pathway - yeast
+Ras signaling pathway,Bacterial chemotaxis,Homologous recombination,Cell cycle - yeast,Peroxisome,Endocytosis,Toll-like receptor signaling pathway,Cytoskeleton in muscle cells,Cytoskeleton in muscle cells,Phosphatidylinositol signaling system
+Rap1 signaling pathway,Flagellar assembly,Non-homologous end-joining,Meiosis - yeast,Autophagy - yeast,Phagosome,Folate transport and metabolism,Toll-like receptor signaling pathway,Toll-like receptor signaling pathway,Endocytosis
+Wnt signaling pathway,Folate transport and metabolism,Fanconi anemia pathway,Motor proteins,Autophagy - other,Lysosome,Bacterial invasion of epithelial cells,Folate transport and metabolism,Folate transport and metabolism,Phagosome
+Notch signaling pathway,Cobalamin transport and metabolism,ATP-dependent chromatin remodeling,Cytoskeleton in muscle cells,Mitophagy - yeast,Peroxisome,,Bacterial invasion of epithelial cells,Bacterial invasion of epithelial cells,Lysosome
+Hedgehog signaling pathway,beta-Lactam resistance,Polycomb repressive complex,Toll-like receptor signaling pathway,Efferocytosis,Autophagy - yeast,,,beta-Lactam resistance,Peroxisome
+TGF-beta signaling pathway,Vancomycin resistance,Viral life cycle - HIV-1,Folate transport and metabolism,Cell cycle - yeast,Autophagy - other,,,,Autophagy - yeast
+Hippo signaling pathway,Cationic antimicrobial peptide (CAMP) resistance,Virion - Hepatitis viruses,Bacterial invasion of epithelial cells,Meiosis - yeast,Mitophagy - yeast,,,,Autophagy - other
+Hippo signaling pathway - multiple species,,ABC transporters,,Motor proteins,Efferocytosis,,,,Mitophagy - yeast
+VEGF signaling pathway,,MAPK signaling pathway - plant,,Cytoskeleton in muscle cells,Cell cycle - yeast,,,,Efferocytosis
+Apelin signaling pathway,,Phosphatidylinositol signaling system,,Toll-like receptor signaling pathway,Meiosis - yeast,,,,Cell cycle - yeast
+JAK-STAT signaling pathway,,Plant hormone signal transduction,,Vitamin digestion and absorption,Motor proteins,,,,Meiosis - yeast
+NF-kappa B signaling pathway,,Endocytosis,,Folate transport and metabolism,Cytoskeleton in muscle cells,,,,Motor proteins
+TNF signaling pathway,,Phagosome,,Bacterial invasion of epithelial cells,Toll-like receptor signaling pathway,,,,Cytoskeleton in muscle cells
+HIF-1 signaling pathway,,Lysosome,,beta-Lactam resistance,Vitamin digestion and absorption,,,,Toll-like receptor signaling pathway
+FoxO signaling pathway,,Peroxisome,,,Folate transport and metabolism,,,,Vitamin digestion and absorption
+Calcium signaling pathway,,Autophagy - other,,,Bacterial invasion of epithelial cells,,,,Folate transport and metabolism
+Phosphatidylinositol signaling system,,Efferocytosis,,,beta-Lactam resistance,,,,Bacterial invasion of epithelial cells
+Phospholipase D signaling pathway,,Motor proteins,,,,,,,beta-Lactam resistance
+Sphingolipid signaling pathway,,Cytoskeleton in muscle cells,,,,,,,
+cAMP signaling pathway,,Toll-like receptor signaling pathway,,,,,,,
+cGMP-PKG signaling pathway,,Folate transport and metabolism,,,,,,,
+PI3K-Akt signaling pathway,,Circadian rhythm - plant,,,,,,,
+AMPK signaling pathway,,Plant-pathogen interaction,,,,,,,
+mTOR signaling pathway,,Bacterial invasion of epithelial cells,,,,,,,
+Neuroactive ligand-receptor interaction,,,,,,,,,
+Cytokine-cytokine receptor interaction,,,,,,,,,
+Viral protein interaction with cytokine and cytokine receptor,,,,,,,,,
+ECM-receptor interaction,,,,,,,,,
+Cell adhesion molecules,,,,,,,,,
+Endocytosis,,,,,,,,,
+Phagosome,,,,,,,,,
+Lysosome,,,,,,,,,
+Peroxisome,,,,,,,,,
+Autophagy - animal,,,,,,,,,
+Autophagy - other,,,,,,,,,
+Mitophagy - animal,,,,,,,,,
+Efferocytosis,,,,,,,,,
+Cell cycle,,,,,,,,,
+Oocyte meiosis,,,,,,,,,
+Apoptosis,,,,,,,,,
+Apoptosis - multiple species,,,,,,,,,
+Ferroptosis,,,,,,,,,
+Necroptosis,,,,,,,,,
+p53 signaling pathway,,,,,,,,,
+Cellular senescence,,,,,,,,,
+Focal adhesion,,,,,,,,,
+Adherens junction,,,,,,,,,
+Tight junction,,,,,,,,,
+Gap junction,,,,,,,,,
+Signaling pathways regulating pluripotency of stem cells,,,,,,,,,
+Motor proteins,,,,,,,,,
+Cytoskeleton in muscle cells,,,,,,,,,
+Regulation of actin cytoskeleton,,,,,,,,,
+Hematopoietic cell lineage,,,,,,,,,
+Complement and coagulation cascades,,,,,,,,,
+Platelet activation,,,,,,,,,
+Neutrophil extracellular trap formation,,,,,,,,,
+Toll-like receptor signaling pathway,,,,,,,,,
+NOD-like receptor signaling pathway,,,,,,,,,
+RIG-I-like receptor signaling pathway,,,,,,,,,
+Cytosolic DNA-sensing pathway,,,,,,,,,
+C-type lectin receptor signaling pathway,,,,,,,,,
+Natural killer cell mediated cytotoxicity,,,,,,,,,
+Antigen processing and presentation,,,,,,,,,
+T cell receptor signaling pathway,,,,,,,,,
+Th1 and Th2 cell differentiation,,,,,,,,,
+Th17 cell differentiation,,,,,,,,,
+IL-17 signaling pathway,,,,,,,,,
+B cell receptor signaling pathway,,,,,,,,,
+Fc epsilon RI signaling pathway,,,,,,,,,
+Fc gamma R-mediated phagocytosis,,,,,,,,,
+Leukocyte transendothelial migration,,,,,,,,,
+Intestinal immune network for IgA production,,,,,,,,,
+Chemokine signaling pathway,,,,,,,,,
+Insulin secretion,,,,,,,,,
+Insulin signaling pathway,,,,,,,,,
+Glucagon signaling pathway,,,,,,,,,
+Regulation of lipolysis in adipocytes,,,,,,,,,
+Adipocytokine signaling pathway,,,,,,,,,
+PPAR signaling pathway,,,,,,,,,
+GnRH secretion,,,,,,,,,
+GnRH signaling pathway,,,,,,,,,
+Ovarian steroidogenesis,,,,,,,,,
+Estrogen signaling pathway,,,,,,,,,
+Progesterone-mediated oocyte maturation,,,,,,,,,
+Prolactin signaling pathway,,,,,,,,,
+Oxytocin signaling pathway,,,,,,,,,
+Relaxin signaling pathway,,,,,,,,,
+"Growth hormone synthesis, secretion and action",,,,,,,,,
+Thyroid hormone synthesis,,,,,,,,,
+Thyroid hormone signaling pathway,,,,,,,,,
+"Parathyroid hormone synthesis, secretion and action",,,,,,,,,
+Melanogenesis,,,,,,,,,
+Renin secretion,,,,,,,,,
+Renin-angiotensin system,,,,,,,,,
+Aldosterone synthesis and secretion,,,,,,,,,
+Cortisol synthesis and secretion,,,,,,,,,
+Cardiac muscle contraction,,,,,,,,,
+Adrenergic signaling in cardiomyocytes,,,,,,,,,
+Vascular smooth muscle contraction,,,,,,,,,
+Salivary secretion,,,,,,,,,
+Gastric acid secretion,,,,,,,,,
+Pancreatic secretion,,,,,,,,,
+Bile secretion,,,,,,,,,
+Carbohydrate digestion and absorption,,,,,,,,,
+Protein digestion and absorption,,,,,,,,,
+Fat digestion and absorption,,,,,,,,,
+Cholesterol metabolism,,,,,,,,,
+Vitamin digestion and absorption,,,,,,,,,
+Folate transport and metabolism,,,,,,,,,
+Cobalamin transport and metabolism,,,,,,,,,
+Mineral absorption,,,,,,,,,
+Vasopressin-regulated water reabsorption,,,,,,,,,
+Aldosterone-regulated sodium reabsorption,,,,,,,,,
+Endocrine and other factor-regulated calcium reabsorption,,,,,,,,,
+Proximal tubule bicarbonate reclamation,,,,,,,,,
+Collecting duct acid secretion,,,,,,,,,
+Glutamatergic synapse,,,,,,,,,
+GABAergic synapse,,,,,,,,,
+Cholinergic synapse,,,,,,,,,
+Dopaminergic synapse,,,,,,,,,
+Serotonergic synapse,,,,,,,,,
+Long-term potentiation,,,,,,,,,
+Long-term depression,,,,,,,,,
+Retrograde endocannabinoid signaling,,,,,,,,,
+Synaptic vesicle cycle,,,,,,,,,
+Neurotrophin signaling pathway,,,,,,,,,
+Phototransduction,,,,,,,,,
+Olfactory transduction,,,,,,,,,
+Taste transduction,,,,,,,,,
+Inflammatory mediator regulation of TRP channels,,,,,,,,,
+Axon guidance,,,,,,,,,
+Osteoclast differentiation,,,,,,,,,
+Longevity regulating pathway,,,,,,,,,
+Longevity regulating pathway - multiple species,,,,,,,,,
+Circadian rhythm,,,,,,,,,
+Circadian entrainment,,,,,,,,,
+Thermogenesis,,,,,,,,,
+Pathways in cancer,,,,,,,,,
+Transcriptional misregulation in cancer,,,,,,,,,
+MicroRNAs in cancer,,,,,,,,,
+Proteoglycans in cancer,,,,,,,,,
+Chemical carcinogenesis - DNA adducts,,,,,,,,,
+Chemical carcinogenesis - receptor activation,,,,,,,,,
+Chemical carcinogenesis - reactive oxygen species,,,,,,,,,
+Viral carcinogenesis,,,,,,,,,
+Central carbon metabolism in cancer,,,,,,,,,
+Choline metabolism in cancer,,,,,,,,,
+PD-L1 expression and PD-1 checkpoint pathway in cancer,,,,,,,,,
+Colorectal cancer,,,,,,,,,
+Pancreatic cancer,,,,,,,,,
+Hepatocellular carcinoma,,,,,,,,,
+Gastric cancer,,,,,,,,,
+Glioma,,,,,,,,,
+Thyroid cancer,,,,,,,,,
+Acute myeloid leukemia,,,,,,,,,
+Chronic myeloid leukemia,,,,,,,,,
+Basal cell carcinoma,,,,,,,,,
+Melanoma,,,,,,,,,
+Renal cell carcinoma,,,,,,,,,
+Bladder cancer,,,,,,,,,
+Prostate cancer,,,,,,,,,
+Endometrial cancer,,,,,,,,,
+Breast cancer,,,,,,,,,
+Small cell lung cancer,,,,,,,,,
+Non-small cell lung cancer,,,,,,,,,
+Human T-cell leukemia virus 1 infection,,,,,,,,,
+Human immunodeficiency virus 1 infection,,,,,,,,,
+Hepatitis B,,,,,,,,,
+Hepatitis C,,,,,,,,,
+Coronavirus disease - COVID-19,,,,,,,,,
+Influenza A,,,,,,,,,
+Measles,,,,,,,,,
+Herpes simplex virus 1 infection,,,,,,,,,
+Human cytomegalovirus infection,,,,,,,,,
+Kaposi sarcoma-associated herpesvirus infection,,,,,,,,,
+Epstein-Barr virus infection,,,,,,,,,
+Human papillomavirus infection,,,,,,,,,
+Vibrio cholerae infection,,,,,,,,,
+Epithelial cell signaling in Helicobacter pylori infection,,,,,,,,,
+Pathogenic Escherichia coli infection,,,,,,,,,
+Salmonella infection,,,,,,,,,
+Shigellosis,,,,,,,,,
+Yersinia infection,,,,,,,,,
+Pertussis,,,,,,,,,
+Legionellosis,,,,,,,,,
+Staphylococcus aureus infection,,,,,,,,,
+Tuberculosis,,,,,,,,,
+Bacterial invasion of epithelial cells,,,,,,,,,
+Amoebiasis,,,,,,,,,
+Malaria,,,,,,,,,
+Toxoplasmosis,,,,,,,,,
+Leishmaniasis,,,,,,,,,
+Chagas disease,,,,,,,,,
+African trypanosomiasis,,,,,,,,,
+Asthma,,,,,,,,,
+Systemic lupus erythematosus,,,,,,,,,
+Rheumatoid arthritis,,,,,,,,,
+Autoimmune thyroid disease,,,,,,,,,
+Inflammatory bowel disease,,,,,,,,,
+Allograft rejection,,,,,,,,,
+Graft-versus-host disease,,,,,,,,,
+Primary immunodeficiency,,,,,,,,,
+Alzheimer disease,,,,,,,,,
+Parkinson disease,,,,,,,,,
+Amyotrophic lateral sclerosis,,,,,,,,,
+Huntington disease,,,,,,,,,
+Spinocerebellar ataxia,,,,,,,,,
+Prion disease,,,,,,,,,
+Pathways of neurodegeneration - multiple diseases,,,,,,,,,
+Cocaine addiction,,,,,,,,,
+Amphetamine addiction,,,,,,,,,
+Morphine addiction,,,,,,,,,
+Nicotine addiction,,,,,,,,,
+Alcoholism,,,,,,,,,
+Lipid and atherosclerosis,,,,,,,,,
+Fluid shear stress and atherosclerosis,,,,,,,,,
+Hypertrophic cardiomyopathy,,,,,,,,,
+Arrhythmogenic right ventricular cardiomyopathy,,,,,,,,,
+Dilated cardiomyopathy,,,,,,,,,
+Diabetic cardiomyopathy,,,,,,,,,
+Viral myocarditis,,,,,,,,,
+Type II diabetes mellitus,,,,,,,,,
+Type I diabetes mellitus,,,,,,,,,
+Maturity onset diabetes of the young,,,,,,,,,
+Alcoholic liver disease,,,,,,,,,
+Non-alcoholic fatty liver disease,,,,,,,,,
+Insulin resistance,,,,,,,,,
+AGE-RAGE signaling pathway in diabetic complications,,,,,,,,,
+Cushing syndrome,,,,,,,,,
+EGFR tyrosine kinase inhibitor resistance,,,,,,,,,
+Platinum drug resistance,,,,,,,,,
+Antifolate resistance,,,,,,,,,
+Endocrine resistance,,,,,,,,,
